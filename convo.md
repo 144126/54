@@ -184,3 +184,39 @@ So the one-page theory, with `real.md` folded in:
 **What is, is what persists; what persists, repeats. Align with that and effort disappears; fight it and effort compounds. Apply it to belief (assume wrong, look closer, keep what survives) and to action (allow, no need, honesty) — the same filter, pointed both ways.**
 
 One question, since it's the only line I can't decode: what is *tabi-kap*?
+
+## User
+
+I wondered recently about reproduction. How is it that things reproduce themselves? Like, why do humans give birth to humans and not cows? And what is induction?
+
+## Claude
+
+Two questions. Both tie straight into the theory you've been building.
+
+### Why humans give birth to humans, not cows
+
+The short answer: **reproduction is copying instructions, and offspring inherit the copy.**
+
+1. Every cell carries DNA — a written instruction set for building the organism.
+2. Reproduction copies that instruction set and passes it on.
+3. A human's instructions say "build a human." That's what gets copied. There's no cow-blueprint in there to produce a cow.
+
+So "like begets like" isn't a rule imposed on top — it *is* what reproduction means: duplicating the pattern. A cow comes from cow-instructions; a human from human-instructions.
+
+**Why it's stable enough to work:** copying is high-fidelity (error-checked at the molecular level), so the pattern survives the trip to the next generation nearly intact. This is your `real.md` line 6 exactly — *"everything that has been will be — repetition, reproduction, patterns."* Reproduction is persistence extended through copies. What survives, copies; what copies, survives. Same filter.
+
+The tiny copy-errors that *do* slip through are mutations — and selection keeps the ones that still work. That's how the instructions slowly change over millions of years (human and cow instructions share an ancestor), but never jump species in one birth.
+
+### What induction is
+
+**Induction = betting that the future resembles the past because the pattern has held so far.**
+
+- The sun rose every day I've seen → I expect it tomorrow.
+- Every human birth so far produced a human → I expect the next one to.
+- This drops when let go 100 times → I expect the 101st.
+
+It's not proof. It's a bet on stability. You never *see* the future; you extend the pattern that has survived so far and assume it keeps surviving.
+
+**The deep tie:** induction only works *because* the universe is mostly stable/repeating. In a world where patterns didn't persist, no learning, no heuristics, no science — nothing could be predicted. So every heuristic on your list, and this whole conversation, rests on induction, and induction rests on the one principle: **what has been, will be — because what persists, repeats.**
+
+The catch (worth knowing): induction can't be *proven* — you can't use "it worked before" to prove "it'll work again" without already assuming induction. This is Hume's problem. The honest stance is your own `know.md` one: hold every inductive belief as *so far, so good — assume I could be wrong*, and keep watching for the counterexample.
