@@ -220,3 +220,26 @@ It's not proof. It's a bet on stability. You never *see* the future; you extend 
 **The deep tie:** induction only works *because* the universe is mostly stable/repeating. In a world where patterns didn't persist, no learning, no heuristics, no science — nothing could be predicted. So every heuristic on your list, and this whole conversation, rests on induction, and induction rests on the one principle: **what has been, will be — because what persists, repeats.**
 
 The catch (worth knowing): induction can't be *proven* — you can't use "it worked before" to prove "it'll work again" without already assuming induction. This is Hume's problem. The honest stance is your own `know.md` one: hold every inductive belief as *so far, so good — assume I could be wrong*, and keep watching for the counterexample.
+
+## User
+
+Things evolve to reproduce themselves. Why did things evolve to reproduce themselves? That's what I meant to ask.
+
+## Claude
+
+**They didn't evolve to reproduce. Reproduction came first — evolution is what happens once something copies itself.**
+
+The question has the arrow backwards. Evolution can't be the *cause* of reproduction, because evolution only exists where there's already reproduction (you need copying-with-variation before selection can do anything). So reproduction isn't an achievement selected for. It's the precondition.
+
+The real answer is your one principle again:
+
+1. Chemistry throws up huge numbers of molecular arrangements, most of which do nothing and fall apart.
+2. Somewhere in that space, some arrangement happened to catalyze the assembly of a copy of itself. Not designed, not aimed at — just one configuration among many.
+3. **That one didn't disappear.** Everything else decayed to nothing. The self-copier decayed too — but by then there were two of it.
+4. So after enough time, the only things left in any quantity are the things that make more of themselves.
+
+Reproduction isn't a strategy things adopted. It's the *only way to still be here* after long enough. Non-reproducers get exactly one lifetime. Reproducers are unbounded. Given any stretch of time, the population is dominated by copiers — not because copying is better, but because non-copying is self-erasing.
+
+**The compressed version:** things that reproduce themselves are the things still around to ask the question. Asking "why did things evolve to reproduce?" is like asking "why is everything I can see visible?" Survivorship bias applied to existence itself.
+
+And this is exactly your `real.md` line: *everything that has been will be — repetition, reproduction, patterns.* Reproduction is what persistence looks like when the thing itself is perishable. A rock persists by lasting. A body can't last, so it persists by copying. Same filter, two solutions.
