@@ -1,4 +1,7 @@
 try kl model - run server
+skill that creates w/ kl model
+transcribe chihiro
+tell pi to use kl model to create pic for each inst-name from start-time to end
 
 billie eilish chihiro
 honorable
