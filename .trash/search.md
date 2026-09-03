@@ -1,1 +1,3 @@
 can i write an autocomplete plugin for urxvt, or a plugin that searches dirs as you type as autocomplete for urxvt
+
+simple - objective property of non-interleaving

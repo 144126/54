@@ -1,11 +1,47 @@
-nararouter for chess
+find out how to use a free image API like Flux.1
+
+create app that uses neil harbisson's eyeborg to map pictures to sound
+
+find best logic book
+
+
+
+chunk and embed best web design books locally 
+
+read webapp that searches on select
+personality voice AI
+
+alphaxiv glm5.2 autoresearch
+yc on how to pick a startup idea in the AI era
+german psychologist 1985 against cramming
+Qwythos-9B-Claude-Mythos-5 Fine Tune with 1M Context
+
+In randomized trial, high fermented food diet raised gut microbial diversity + dropped 19 inflammation related proteins in blood. High fiber diet alone did not shift diversity.
+
+how does kache make money
+
+no hands dev
+    skills
+        design
+            tasteskill
+    agents
+    agents.md
+        patterns
+        standards
+
+remove 
+find best UI design AI agent skill
 host sterlingpdf
-opencode use cloakbrowser
+opencode get cloakbrowser working perfectly
 clocakbrowser to apply to jobs
 use docker android to have phone on laptop
 use https://github.com/iternal-technologies-partners/blockify-agentic-data-optimization for document chunking
 run nouse hermes locally with gemma4
 try hermes blankslate install
+
+cash
+    use glm5.2 w/ opencode
+    try out user story loop
 
 hmm
 	dustinbrett, OS in browser, how he did it
@@ -15,7 +51,7 @@ check out
 	https://github.com/Egonex-AI/Understand-Anything, for understanding codebases
 		also apparently cognition AI's tool that does this too
 
-create tool that adds save button next to tweets that embeds tweet and saves to db
+create tapermonkey or extension tool that adds save button next to tweets, shows modal or something for save category, embeds tweet and saves to db
 
 add google timesfm to 9
 prompt reverse search to opencode

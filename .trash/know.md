@@ -1,9 +1,26 @@
 do what i want
+what is this: focus on state -> trigger recall
+
+don't care
+probability
+alternatives
+predictions, expectations, possible futures how they could be wrong
+
+work smarter, less stress, less effort
+wellbeing allows to think better
+to work even smarter
+and take care of stuff that seemed to need more effort
+
+using ohmyagent helped me discover opencode can see webpages
+    maybe it came w/ ohmyagent
+    so i guess i used an existing power tool instead of tryna figure it out myself
+
+do what i want
 wu-wei - allow - 9
     ease
     minimum viable action: what's least required to move forward
  the key to success was not persistence, but patience and attention to detail
- letting go of attachments, desires, and forced outcomes; returning to simplicity; trusting the natural process
+ letting go of attachments, desires, and forced outcomes; returning to simplicity; trusting the natural process[C[C]]
  radical openness to the situation; forgetting fixed categories and ego boundaries; responding with fluid precision to whatever arises. Each path is valid; the choice depends on the individual and the context.
      helped him win a guiness world record
 

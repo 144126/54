@@ -1,0 +1,1 @@
+sell everything and invest it in the leading AI lab

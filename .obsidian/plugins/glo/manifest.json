@@ -1,0 +1,10 @@
+{
+	"id": "glo",
+	"name": "Glo Voice Chat",
+	"version": "0.0.1",
+	"minAppVersion": "1.12.0",
+	"description": "Voice chat with Gemini Live AI. Speak with your notes.",
+	"author": "",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}

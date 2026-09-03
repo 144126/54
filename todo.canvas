@@ -1,0 +1,63 @@
+{
+	"nodes":[
+		{
+			"id":"ac11d4b488d35955",
+			"type":"text",
+			"text":"evac blog",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8ae4370b546932a5",
+			"type":"text",
+			"text":"flux video",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3a149105aa29fc3a",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d116058dfd32a74c",
+			"type":"text",
+			"text":"sh",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-400,
+			"width":240,
+			"height":60
+		},
+		{"id":"11e4e5d7de067430","type":"text","text":"","x":-680,"y":-70,"width":260,"height":60},
+		{"id":"a5a44bea8b63e05d","type":"text","text":"aphollo","x":-680,"y":40,"width":260,"height":60},
+		{"id":"d8a0730f9bb2d869","type":"text","text":"kekong new","x":-1300,"y":40,"width":260,"height":60},
+		{"id":"97846ef888a42a9f","type":"text","text":"","x":-1300,"y":150,"width":260,"height":60},
+		{"id":"1b0b5cf627cabc7e","x":-1291,"y":-382,"width":250,"height":132,"type":"text","text":"evac \nseo\nlinkedin"},
+		{"id":"2cc00afb0efc729b","type":"text","text":"hgc X","x":-1291,"y":-250,"width":260,"height":60},
+		{"id":"7569085f1af02955","x":-1291,"y":-492,"width":250,"height":60,"type":"text","text":"mesh message"},
+		{"id":"ce6b5dc0069561d1","x":-1291,"y":-602,"width":250,"height":60,"type":"text","text":"x2 tenor"},
+		{"id":"22176aa21c2a6512","x":-1286,"y":-140,"width":250,"height":60,"type":"text","text":""},
+		{"id":"9caad991f09e5c25","x":-1591,"y":-382,"width":250,"height":60,"type":"text","text":"linkedin"},
+		{"id":"bdea96b253ac98bd","x":-1672,"y":-520,"width":250,"height":60,"type":"text","text":"notes\n"}
+	],
+	"edges":[
+		{"id":"eedd0e4605ff9b64","fromNode":"ac11d4b488d35955","fromSide":"top","toNode":"3a149105aa29fc3a","toSide":"bottom"},
+		{"id":"dbf90594fdfe3aa5","fromNode":"1b0b5cf627cabc7e","fromSide":"left","toNode":"9caad991f09e5c25","toSide":"right"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

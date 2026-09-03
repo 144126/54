@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "35d20d9cafb2c449",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c25a798f16f0652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de85548fda39c1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "video frames.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "video frames"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de5425a5171316f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "56653bd49d15509b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46d03791ac25355",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4c52733334d98ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "30d81a896c201c77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "432724b14b7da53b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c75c341e28a2ee86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aaa1bf6d60cbc0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "know.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for know"
+            }
+          },
+          {
+            "id": "e00cf357eabe855b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "know.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from know"
+            }
+          },
+          {
+            "id": "5228e1f7863c29b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca2c9b693b9b96b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ea9fa529b1d23df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DAILY DOSES OF FAITH - THEME - GODLY WOMANHOOD ACCORDING TO THE NEW TESTAMENT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DAILY DOSES OF FAITH - THEME - GODLY WOMANHOOD ACCORDING TO THE NEW TESTAMENT"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 585.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "de85548fda39c1ad",
+  "lastOpenFiles": [
+    "video frames.md",
+    "i.canvas",
+    "prompts.md",
+    "x2.md",
+    "ev.md",
+    "deepresearch.md",
+    "prompt for game to improve mental attribute.md",
+    "Untitled 7.md",
+    "e4.md",
+    "youtube.md",
+    "instagram.md",
+    "real.md",
+    "how to pick the best possibility.md",
+    "Untitled 6.md",
+    "claude.md",
+    "Untitled 5.md",
+    "we fi.md",
+    "beee.md",
+    "Untitled 4.md",
+    "todo.md",
+    "Pearl.md",
+    "my will.md",
+    "pr.md",
+    "dc2.md",
+    "todo.canvas",
+    "mesh.md",
+    "Untitled.canvas",
+    "know.canvas",
+    "video.md",
+    "Untitled 3.md",
+    "future.canvas",
+    "Untitled.base",
+    "voice-notes",
+    "convo.md.tmp.24896.652f4ab0560e",
+    "convo.md.tmp.24896.96b14bd2a373",
+    "convo.md.tmp.24896.da1328b6ac68",
+    "convo.md.tmp.6958.85e8b123b71a",
+    "saw",
+    "sonu"
+  ]
+}

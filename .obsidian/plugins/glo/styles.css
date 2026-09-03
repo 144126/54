@@ -1,0 +1,25 @@
+/* Glo Voice Chat - Obsidian Plugin Styles */
+/* Inherits Obsidian theme variables */
+
+.glo-app {
+	font-family: var(--font-interface);
+	font-size: 14px;
+}
+
+/* Scrollbar styling for chat */
+.glo-app ::-webkit-scrollbar {
+	width: 6px;
+}
+
+.glo-app ::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+.glo-app ::-webkit-scrollbar-thumb {
+	background: var(--background-modifier-border);
+	border-radius: 3px;
+}
+
+.glo-app ::-webkit-scrollbar-thumb:hover {
+	background: var(--text-faint);
+}

@@ -1,0 +1,1 @@
+deepseekv4flash as orchestrator, dots/free-model/cheapest-good-enough-model as extractor

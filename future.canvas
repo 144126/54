@@ -1,0 +1,67 @@
+{
+	"nodes":[
+		{"id":"8704cd6977351b4a","type":"group","x":-960,"y":-960,"width":576,"height":540,"label":"we figure out"},
+		{"id":"ef7bacabe08a9a37","type":"text","text":"everyone makes their own entertainment: songs, movies","x":-334,"y":-182,"width":250,"height":82},
+		{"id":"7d64da90866bbd85","type":"text","text":"everyone hosts their own sites and web services","x":-334,"y":-402,"width":250,"height":60},
+		{"id":"8b1d2ddd23c4cac3","type":"text","text":"governments run on nodes w/ ai agents","x":-634,"y":-292,"width":250,"height":60},
+		{"id":"7a76a9832123381e","type":"text","text":"directories cost nothing to host","x":-334,"y":-512,"width":250,"height":60},
+		{"id":"d4e31ade4816dce1","type":"text","text":"no need for content distribution platforms anymore","x":-334,"y":-72,"width":250,"height":92},
+		{"id":"3af05fdbc4ad04e9","type":"text","text":"extropic: local frontier models","x":-334,"y":-292,"width":250,"height":60},
+		{"id":"8c08c01a3f922067","type":"text","text":"everyone makes and hosts their own app, websites, tools","x":-20,"y":-308,"width":250,"height":92},
+		{"id":"fcb16f3ca21fb720","type":"text","text":"everyone does ai (auto)research","x":-634,"y":-402,"width":250,"height":60},
+		{
+			"id":"e57c41b51f2a76cc",
+			"type":"text",
+			"text":"excess resources",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2fe03cd71aac1fb0",
+			"type":"text",
+			"text":"robots",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-720,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9e080defde102fa6",
+			"type":"text",
+			"text":"agi",
+			"styleAttributes":{},
+			"x":-980,
+			"y":-352,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{"id":"69756212199a378c","fromNode":"3af05fdbc4ad04e9","fromSide":"right","toNode":"8c08c01a3f922067","toSide":"left"},
+		{"id":"2ab7ccce1a53a8d5","fromNode":"3af05fdbc4ad04e9","fromSide":"bottom","toNode":"ef7bacabe08a9a37","toSide":"top"},
+		{"id":"d6ec0c4a3ea8c1cb","fromNode":"3af05fdbc4ad04e9","fromSide":"top","toNode":"7d64da90866bbd85","toSide":"bottom"},
+		{"id":"49f261f9d345168f","fromNode":"3af05fdbc4ad04e9","fromSide":"left","toNode":"8b1d2ddd23c4cac3","toSide":"right"},
+		{"id":"649e9a0d59f4078b","fromNode":"7d64da90866bbd85","fromSide":"top","toNode":"7a76a9832123381e","toSide":"bottom"},
+		{"id":"adfb748fbf31352f","fromNode":"ef7bacabe08a9a37","fromSide":"bottom","toNode":"d4e31ade4816dce1","toSide":"top"},
+		{
+			"id":"8e600c1ca83ba9ab",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3af05fdbc4ad04e9",
+			"fromSide":"left",
+			"toNode":"fcb16f3ca21fb720",
+			"toSide":"right"
+		},
+		{"id":"907e6b14b2742dc2","fromNode":"fcb16f3ca21fb720","fromSide":"left","toNode":"9e080defde102fa6","toSide":"right"},
+		{"id":"0e0a894599316ef5","toFloating":false,"fromNode":"9e080defde102fa6","fromSide":"top","toNode":"8704cd6977351b4a","toSide":"bottom"},
+		{"id":"56a7c4cc509cf9e5","fromNode":"e57c41b51f2a76cc","fromSide":"top","toNode":"2fe03cd71aac1fb0","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

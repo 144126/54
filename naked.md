@@ -1,0 +1,4 @@
+struggle
+smallness
+animal
+fear

@@ -1,0 +1,2 @@
+Self-consciousness activates the default mode network (DMN), particularly the medial prefrontal cortex (mPFC) and posterior cingulate cortex (PCC), which support self-referential thought and social evaluation [11]
+

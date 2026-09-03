@@ -1,0 +1,1 @@
+rename all mentions of 'master chess' or 'master chess player', the digital chess learning app, to "sonu" (the name of the app)

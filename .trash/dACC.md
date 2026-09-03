@@ -1,0 +1,1 @@
+Social pain — the distress of potential rejection by unfamiliar others — activates the dorsal anterior cingulate cortex (dACC) and anterior insula, regions also involved in physical pain
