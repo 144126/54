@@ -1,3 +1,7 @@
+fnd video plan convo
+finalize video plan
+create storyboard w/ local model
+
 replace text under hero heading with: 'A high-level, transformative chess experience combining advanced AI coaching, mentorship, and strategic self-leadership development.'
 
 
