@@ -1,3 +1,5 @@
+[[video edit]]
+
 get fast sd working
 iri skill use the local models to iterate instead of svg
 
