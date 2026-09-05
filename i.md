@@ -1,3 +1,5 @@
+do stuff step by step, low working memory requires it
+
 my edge is truth
 	anthropic make the smarter models, but didn't seem to have the truth that releasing Fable wouldn't destroy the world
 comfort and satisfaction

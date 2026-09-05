@@ -1,3 +1,9 @@
+script
+voice
+pic style
+pics on words
+
+
 [[video edit]]
 
 get fast sd working
