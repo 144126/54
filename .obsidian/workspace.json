@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blockers.md",
+                "file": "letting-agreement-review/03-clause-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blockers"
+              "title": "03-clause-review"
             }
           }
         ],
@@ -232,6 +232,8 @@
   },
   "active": "3cdc5ae1720381b7",
   "lastOpenFiles": [
+    "letting-agreement-review/02-general-comments.md",
+    "letting-agreement-review/01-cover-letter.md",
     "blockers.md",
     "video edit.md",
     "video frames.md",
@@ -257,8 +259,6 @@
     "todo.md",
     "Pearl.md",
     "my will.md",
-    "pr.md",
-    "dc2.md",
     "todo.canvas",
     "Untitled.canvas",
     "know.canvas",
