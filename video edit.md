@@ -1,4 +1,4 @@
-
+[[edit ideas]]
 
 make adding frame (keyframe) to editor 2 buttons:
 addnext

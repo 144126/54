@@ -1,0 +1,1 @@
+have it all - people dancing at a music festival, the fast kick part syncing with their jumps
