@@ -112,5 +112,23 @@
       ],
       "key": "I"
     }
-  ]
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "cvk:focus-prev": [],
+  "cvk:focus-next": []
 }
