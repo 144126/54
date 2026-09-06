@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "todo"
             }
+          },
+          {
+            "id": "f05fe85ac2e4519e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "edi"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53851f99db349e39",
+  "active": "f05fe85ac2e4519e",
   "lastOpenFiles": [
+    "todo.md",
+    "edi.md",
     "video frames.md",
     "i.md",
     "video edit.md",
@@ -214,8 +231,6 @@
     "how to pick the best possibility.md",
     "Untitled 6.md",
     "claude.md",
-    "Untitled 5.md",
-    "we fi.md",
     "todo.canvas",
     "Untitled.canvas",
     "know.canvas",
