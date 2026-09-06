@@ -1,1 +1,2 @@
-upload multiple source vids, one source vid at a time can be active in the viewer
+* upload multiple source vids, one source vid at a time can be active in the viewer
+* shift left/right to 
