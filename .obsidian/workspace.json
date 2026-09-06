@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4c25a798f16f0652",
+        "id": "82ff440bb38962ea",
         "type": "tabs",
         "children": [
           {
-            "id": "de85548fda39c1ad",
+            "id": "53851f99db349e39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "video frames.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "video frames"
-            }
-          },
-          {
-            "id": "ffddc06c47cd5cfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "i.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "i"
-            }
-          },
-          {
-            "id": "45794d3cce680485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "video edit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "video edit"
-            }
-          },
-          {
-            "id": "d482f9e681a3790f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "edit ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "edit ideas"
-            }
-          },
-          {
-            "id": "98a19e05148e9b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pilotspan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pilotspan"
-            }
-          },
-          {
-            "id": "3cdc5ae1720381b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "letting-agreement-review/03-clause-review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03-clause-review"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,18 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d482f9e681a3790f",
+  "active": "53851f99db349e39",
   "lastOpenFiles": [
-    "edit ideas.md",
-    "video edit.md",
-    "i.md",
-    "Untitled 8.md",
     "video frames.md",
+    "i.md",
+    "video edit.md",
     "letting-agreement-review/03-clause-review.md",
+    "pilotspan.md",
+    "edit ideas.md",
+    "Untitled 8.md",
     "letting-agreement-review/02-general-comments.md",
     "letting-agreement-review/01-cover-letter.md",
     "blockers.md",
-    "pilotspan.md",
     "beee.md",
     "i.canvas",
     "prompts.md",
