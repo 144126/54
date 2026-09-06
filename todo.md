@@ -2,6 +2,15 @@ comfort and satisfaction
 do what you want
 there's no gain in effort
 
+rollback to orpheus 2
+sure of orpheus2 transcribe
+make hyperframe vid to orpheus2
+
+shazam and download trumpet sound audio
+add muscriptor to edi
+make void edit
+
+
 [[mesh]]
 hgc
 [[ev]]
