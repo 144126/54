@@ -59,6 +59,12 @@ Add: significant complaints, disputes, tenancy breaches, or incidents affecting 
 - **Vacant units:** once every month until re-let.
 - Each visit: written report, photos where needed, recommendations on maintenance, repairs, security or occupancy.
 
+### Clause 3(x) — Rental Advice
+
+`ACCEPTED`
+
+Appointee advises on market rents and conditions; **final approval of all rental rates stays with the Appointor**.
+
 ### Clause 3(xii) — Records
 
 `ACCEPTED`
