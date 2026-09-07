@@ -5,7 +5,7 @@ Plot 51, Cadastral Zone, Phase 1, Site 1, P.W., Kubwa, Abuja-FCT
 
 5 September 2026
 
-The Managing Partner
+The Managing PartnerEddy
 **Jide Taiwo & Co.**
 Estate Surveyors & Valuers
 
