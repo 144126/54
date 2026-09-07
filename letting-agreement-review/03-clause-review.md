@@ -71,7 +71,8 @@ Appointee advises on market rents and conditions; **final approval of all rental
 
 Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
 
-### New Clause — Compliance
+
+### A. New Clause — Compliance 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
@@ -99,17 +100,17 @@ Each **quarterly report**: rents collected; arrears; vacancies; maintenance done
 
 Insurance decisions stay with the Appointor. The Appointee shall: advise on cover; get quotes when asked; help with renewals when told to; flag incidents that may lead to claims; help with claims when needed. No insurance bought without prior approval.
 
-## New Clause  — Financial Management
+## B. New Clause  — Financial Management
 
 - Landlord funds kept **separate** from the Appointee's operating funds.
 - Accurate accounts kept.
 - Appointor may inspect records on reasonable notice; supporting papers on request.
 
-## New Clause — Client Account
+## C. New Clause — Client Account
 
 > The Appointee shall maintain proper accounting procedures for all monies received on behalf of the Appointor and shall keep adequate records of all receipts, disbursements and balances relating to the Property. The Appointor shall be entitled, upon reasonable notice, to inspect such records relating to her Property.
 
-## New Clause — Security Deposits
+## D. New Clause — Security Deposits
 
 - Deposits collected from tenants; amount approved by the Appointor.
 - Unless agreed otherwise — Flats: **one month's rent**; Duplex: **two months' rent**.
@@ -148,15 +149,15 @@ Expressly cover: tenant personal data, bank details, financial information, ID c
 
 `ACCEPTED — NO AMENDMENT`
 
-## New Clause — Conflict of Interest
+## E. New Clause — Conflict of Interest
 
 > The Appointee shall not, without the prior written approval of the Appointor, let, license, allocate or otherwise grant any interest in the Property to itself, its directors, employees, agents, affiliates, or related parties.
 
-## New Clause — Key Management
+## F. New Clause — Key Management
 
 Key register (keys in/out, date, recipient, return date). Spares kept secure. No copies except as reasonably needed for management, with a record of each copy.
 
-## New Clause — Right to Inspect Records
+## G. New Clause — Right to Inspect Records
 
 The Appointor may, on reasonable notice, inspect and copy records on: rent collections; maintenance spend; invoices and receipts; security deposits; tenancy agreements; inspection reports.
 

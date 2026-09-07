@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4b8efb8e8a951f3",
+  "active": "d95b31ad8c5c2936",
   "lastOpenFiles": [
+    "letting-agreement-review/03-clause-review.md",
     "letting-agreement-review/02-general-comments.md",
     "letting-agreement-review/01-cover-letter.md",
-    "letting-agreement-review/03-clause-review.md",
     "i.md",
     "todo.md",
     "edi.md",
