@@ -71,12 +71,6 @@ Appointee advises on market rents and conditions; **final approval of all rental
 
 Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
 
-### Clause 3(xiii) — Compliance
-
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
-Appointee must follow all applicable laws and professional standards for estate surveyors and valuers, keep all registrations and licences current, and confirm it is duly authorised to practise estate management in Nigeria.
-
 ## Clause 4 — Obligations of the Appointor
 
 `GENERALLY ACCEPTED`
