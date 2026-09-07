@@ -35,8 +35,7 @@
               "title": "edi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f05fe85ac2e4519e",
+  "active": "53851f99db349e39",
   "lastOpenFiles": [
-    "todo.md",
     "edi.md",
+    "todo.md",
     "video frames.md",
     "i.md",
     "video edit.md",
