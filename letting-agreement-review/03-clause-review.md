@@ -93,9 +93,13 @@ Fair, subject to: getting adequate supporting information from the Appointee; re
 
 Each **quarterly report**: rents collected; arrears; vacancies; maintenance done; spend; tenant issues; inspection findings; recommendations. **Annual reports** add an overall performance summary.
 
-## Clause 6 — Financial Management
+## Clause 6 — Insurance
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
+
+Insurance decisions stay with the Appointor. The Appointee shall: advise on cover; get quotes when asked; help with renewals when told to; flag incidents that may lead to claims; help with claims when needed. No insurance bought without prior approval.
+
+## New Clause  — Financial Management
 
 - Landlord funds kept **separate** from the Appointee's operating funds.
 - Accurate accounts kept.
@@ -143,10 +147,6 @@ Expressly cover: tenant personal data, bank details, financial information, ID c
 ## Clause 11 — Force Majeure
 
 `ACCEPTED — NO AMENDMENT`
-
-## New Clause — Insurance
-
-Insurance decisions stay with the Appointor. The Appointee shall: advise on cover; get quotes when asked; help with renewals when told to; flag incidents that may lead to claims; help with claims when needed. No insurance bought without prior approval.
 
 ## New Clause — Conflict of Interest
 
