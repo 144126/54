@@ -49,7 +49,8 @@
               "title": "03-clause-review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53851f99db349e39",
+  "active": "d95b31ad8c5c2936",
   "lastOpenFiles": [
+    "letting-agreement-review/01-cover-letter.md",
     "letting-agreement-review/03-clause-review.md",
     "letting-agreement-review/02-general-comments.md",
-    "letting-agreement-review/01-cover-letter.md",
     "i.md",
     "todo.md",
     "edi.md",
