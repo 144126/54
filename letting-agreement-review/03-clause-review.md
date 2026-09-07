@@ -61,7 +61,7 @@ Add: significant complaints, disputes, tenancy breaches, or incidents affecting 
 
 ### Clause 3(x) — Rental Advice
 
-`ACCEPTED`
+`ACCEPTED, SUBJECT TO AMENDMENT`
 
 Appointee advises on market rents and conditions; **final approval of all rental rates stays with the Appointor**.
 
