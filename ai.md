@@ -1,3 +1,5 @@
+anything computer - blender, photoshop, CAD, music, video editing. anything
+
 search - brett adcock
 hark handoff
 
