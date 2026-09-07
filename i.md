@@ -1,3 +1,5 @@
+allow, sleep, think
+
 do stuff step by step, low working memory requires it
 
 my edge is truth

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "i.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "i"
             }
           },
           {
@@ -203,8 +203,8 @@
   },
   "active": "53851f99db349e39",
   "lastOpenFiles": [
-    "edi.md",
     "todo.md",
+    "edi.md",
     "video frames.md",
     "i.md",
     "video edit.md",
