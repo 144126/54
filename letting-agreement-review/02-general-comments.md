@@ -58,7 +58,7 @@ Operational details (bank accounts, emergency contacts, managed units) should si
 
 - Correct typographical errors (e.g. "District" where applicable).
 - Consistent clause numbering throughout.
-- Consis tent capitalisation of defined terms.
+- Consistent capitalisation of defined terms.
 - Consistent references to the **Appointor** and the **Appointee**.
 - Cover page, table of contents, defined terms in bold, schedules, signature blocks, clean print-ready formatting.
 
