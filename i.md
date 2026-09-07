@@ -1,5 +1,9 @@
 allow, sleep, think
 
+certain extreme goal
+
+believe anything is possible
+
 do stuff step by step, low working memory requires it
 
 my edge is truth
