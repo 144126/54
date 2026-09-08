@@ -6,7 +6,7 @@ Thank you for forwarding the draft Letting people and Management Agreement. I ap
 
 1. Property Description (schedule 1)
 
-The description of the property should be more comprehensive and specific. Kindly replace the current description with the full description of the property, including the plot number (where available), the number and type of buildings/units and any other identifying particulars to eliminate ambiguity.
+
 
 Property Description:
 
