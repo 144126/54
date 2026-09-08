@@ -44,7 +44,6 @@ The Appointee hereby covenant with the appointor as follow:
 -  To advise on tenancy matters
 - To help recover rent
 - To coordinate enforcement
--  liaise with solicitors 
 - To oversee the property and the tenant occupying same
 -  To advise on the best rent accruable on the market
 -  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
