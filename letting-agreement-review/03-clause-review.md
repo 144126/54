@@ -143,7 +143,6 @@ The Appointee  can only procure insurance with the prior approval of the Appoint
 `REQUIRES CLARIFICATION AND CONSOLIDATION`
 
 Position: **10% of rent actually collected and remitted**, covering ordinary management. Any separate letting, legal, filing or professional charge must be stated and need prior approval. Delete "excluding the first year's rent" or explain it if a separate letting commission is meant.
-
 ## D. New Clause — Security Deposits
 
 - Deposits collected from tenants; amount approved by the Appointor.
