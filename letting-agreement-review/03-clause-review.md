@@ -14,6 +14,18 @@ Plot 51, Cadastral Zone, Phase 1, Site 1, P.W., Kubwa, Abuja-FCT
 ### A. New Clause — Scope of the Appointment
 
 The Agreement should expressly state the appointment covers the **entire Property** in Schedule 1, including all present and future tenants and occupancies, except any area expressly reserved by the Appointor  Also, clarify that the Appointee is appointed as the exclusive letting and management agent for the property during the subsistence of this Agreement.
+
+
+### B. New Clause — Authority of the Appointee
+
+- The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
+- Accept or reject any prospective tenant.
+- Execute or renew any tenancy agreement.
+- Grant rent concessions or discounts.
+- Waive rent arrears.
+- Alter any approved tenancy terms.
+- Appoint contractors for major works.
+- Commence legal proceedings except as expressly authorised by the Appointor.
 ## Clause 2 — Duration
 
 `ACCEPTED, SUBJECT TO AMENDMENT`

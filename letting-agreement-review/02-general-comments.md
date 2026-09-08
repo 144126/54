@@ -74,19 +74,10 @@ Kindly,
 
 ## 7. 
 
-## 8. Authority of the Appointee
-
-- The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
-- Accept or reject any prospective tenant.
-- Execute or renew any tenancy agreement.
-- Grant rent concessions or discounts.
-- Waive rent arrears.
-- Alter any approved tenancy terms.
-- Appoint contractors for major works.
-- Commence legal proceedings except as expressly authorised by the Appointor.
+## 8. 
 
 
-## 9. Reserved Area Authority of the Appointee
+## 9. Reserved Area 
 
 - The **Reserved Area** shall be identified in Schedule 1 (Schedule 3 for inventory detail) and is expressly excluded from the Appointee's letting and management responsibilities.
 - The Appointor retains the Reserved Area for exclusive use. It attracts **no rent, management fee or other charge**, being private property, not part of the income-producing premises.
