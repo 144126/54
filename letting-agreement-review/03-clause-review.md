@@ -19,6 +19,7 @@ The Agreement should expressly state the appointment covers the **entire Propert
 ### B. New Clause — Authority of the Appointee
 
 The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
+- Collect or hold rent or other monies belonging to the Appointor 
 - Accept or reject any prospective tenant.
 - Execute or renew any tenancy agreement.
 - Grant rent concessions or discounts.
@@ -33,14 +34,17 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 
 ## Clause 3 — Obligations of the Appointee
 
-### Clause 3(v) — Repairs and Maintenance
-
 `ACCEPTED, SUBJECT TO AMENDMENT`
-
-### Clause 3(v) — Repairs and Maintenance
+### A— Rent Payment and Monitoring
 -  Oversee the property and the tenant occupying same
 - - Advise on the best rent accruable on the market
 - - Lease the property to an approved prospective tenant at the agreed rent terms by the Appointor
+- Ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
+- Provide or communicate the approved payment details to tenants 
+- Monitor and reconcile all payments 
+- Maintain accurate records of rent received and outstanding 
+- Promptly follow up on any arrears or default. 
+
 - To 
 ### Clause 3(v) — Repairs and Maintenance
 ### Clause 3(v) — Repairs and Maintenance
@@ -52,11 +56,11 @@ The Agreement should expressly provide that the Appointee shall:
 - Routine Repairs up to **₦100,000** without prior approval.
 - Above ₦100,000 needs **prior written approval**, except emergencies.
 
-### Clause 3(iv) — Rent Payment and Monitoring
+### Clause 3(iv) — 
 
 `NOT ACCEPTED — CORRECTED WORDING`
 
-> All rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. The Appointee shall provide or communicate the approved payment details to tenants, monitor and reconcile all payments, maintain accurate records of rent received and outstanding, and promptly follow up on any arrears or default. The Appointee shall not collect or hold rent or other monies belonging to the Appointor unless specifically authorised by the Appointor in writing.
+> 
 
 ### Clause 3(vi) — Emergency Repairs
 
