@@ -41,8 +41,8 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rent Payment and Monitoring
 -  To oversee the property and the tenant occupying same
-- - To advise on the best rent accruable on the market
-- - To lease the property to an approved prospective tenant at the agreed rent terms by the Appointor
+-  To advise on the best rent accruable on the market
+-  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
 - To monitor and reconcile all payments 
