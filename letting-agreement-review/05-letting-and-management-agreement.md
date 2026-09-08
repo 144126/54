@@ -35,9 +35,8 @@ The Appointee hereby covenant with the appointor as follows:
 - To collect due rent from the tenant as and when due.
 - To carry out routine inspection on the property, appraise its status and update the Appointor.
 - To carry out instruction of the Appointor as regard repairs.
-- To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
-- To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
-- To review the rent payable on the properties after due consultation with the Appointor.
+- 
+- 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - On collection of rent, pay same into Appointor’s account as provided by the Appointor not later than 48hours of such collections except otherwise instructed by the appointer.
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.

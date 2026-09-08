@@ -48,13 +48,15 @@ The Appointee hereby covenant with the appointor as follow:
 - To monitor and reconcile all payments 
 - To maintain accurate records of rent received and outstanding 
 - To promptly follow up on any arrears or default. 
+- To review the rent payable on the properties after due consultation with the Appointor.
 
 ### B. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To undertake repairs up to **₦100,000** only without **prior written approval.**
 ### C. — Legal Matters
-
+- To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
+- To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
 ### Clause 3(v) — Repairs and Maintenance 
 ### Clause 3(v) — Repairs and Maintenance
 
