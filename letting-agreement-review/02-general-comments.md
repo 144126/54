@@ -5,11 +5,11 @@ Plot 51, Cadastral Zone, Phase 1, Site 1, P.W., Kubwa, Abuja-FCT
 
 ## 1. Professional Indemnity Insurance
 
-The Appointee should confirm (or warrant, if already held) that it maintains valid **Professional Indemnity Insurance** throughout the term of the Agreement. This protects the Appointor against loss from professional negligence and is the hallmark of a well-managed professional engagement.
+The Appointee should confirm (or warrant, if already held) that it maintains valid **Professional Indemnity Insurance** throughout the term of the Agreement. This is to help protect the Appointor against loss from professional negligence and will serve as a hallmark for the professional management of this  engagement.
 
 ## 2. Registration and Licensing
 
-The Appointee should confirm it is duly **registered and licensed** to practise as Estate Surveyors and Valuers, and will maintain all registrations, licences and approvals needed to perform its duties within the Federal Republic of Nigeria.
+The Appointee should confirm it is duly **registered and licensed** to practice as Estate Surveyors and Valuers, and will maintain all registrations, licences and approvals needed to perform its duties within the Federal Republic of Nigeria.
 
 ## 3. Proposed Structure and Table of Contents
 
@@ -56,6 +56,7 @@ Operational details (bank accounts, emergency contacts, managed units) should si
 
 ## 5. Drafting Consistency
 
+Kindly,
 - Correct typographical errors (e.g. "District" where applicable).
 - Consistent clause numbering throughout.
 - Consistent capitalisation of defined terms.
