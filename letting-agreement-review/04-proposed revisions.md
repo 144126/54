@@ -27,24 +27,25 @@ Approved Annual Rent:
 ₦ ___________________________________
 
 
+9. Legal Proceedings
 
+Clause 3(vii) should be revised to clarify that the Appointee shall coordinate legal proceedings through solicitors approved by the Appointor rather than representing the Appointor directly before the courts.
 
-7. 
-8. Security Deposit
+15. Insurance
 
-The Agreement should clearly state:
+The Appointee's responsibility should be to:
 
-The amount of security deposit to be collected.
+Advise the Appointor regarding appropriate insurance.
 
-Who shall hold the security deposit.
+Obtain quotations where requested.
 
-Circumstances under which deductions may be made.
+Assist in arranging insurance where instructed.
 
-Procedure for refund upon termination of tenancy.
+Notify the Appointor promptly of any incident likely to give rise to an insurance claim.
 
+Assist in processing insurance claims where required.
 
-
-
+The Appointee should not procure insurance without the prior approval of the Appointor.
 
 16. Conflict of Interest
 

@@ -138,18 +138,12 @@ The Appointee  can only procure insurance with the prior approval of the Appoint
 - Accurate accounts shall be kept of any funds belonging to the Appointor **separate** from the Appointee's operating funds.
 - Appointor may inspect records on reasonable notice; supporting papers shall be submitted on request.
 
-
-
-## C. New Clause — Client Account
-
-> The Appointee shall maintain proper accounting procedures for all monies received on behalf of the Appointor he Appointor shall be entitled, upon reasonable notice, to inspect such records relating to her Property.
-
 ## D. New Clause — Security Deposits
 
 - Deposits collected from tenants; amount approved by the Appointor.
 - Unless agreed otherwise — Flats: **one month's rent**; Duplex: **two months' rent**.
 - Used only for: rent arrears; damage beyond fair wear and tear; missing items; cleaning; unpaid utilities.
-- Balance refunded after final inspection.
+- Balance refunded after final inspection. 
 
 ## Clause 7 — Fees and Payments
 
