@@ -45,7 +45,7 @@ The Appointee hereby covenant with the appointor as follow:
 - To provide or communicate the approved payment details to tenants 
 - To monitor and reconcile all payments 
 - To maintain accurate records of rent received and outstanding 
-- Promptly follow up on any arrears or default. 
+- To promptly follow up on any arrears or default. 
 
 ### B. — Repairs and Maintenance
 The Agreement should expressly provide that the Appointee shall:
