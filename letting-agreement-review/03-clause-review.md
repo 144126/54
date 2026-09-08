@@ -39,17 +39,23 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
 The Appointee hereby covenant with the appointor as follow:
-### A. — Rent Payment and Monitoring
-
--  To advise on tenancy matters
+### A. — Rental Advice 
+- To advise on the best rent accruable on the market
+- To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
+### B. — Monitoring
+-  To oversee the property and the tenant occupying same
+- To advise on tenancy matters
+### C. — Rent Payment 
+-  To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
+- To provide or communicate the approved payment details to tenants 
 - To help recover rent
 - To coordinate enforcement
-- To oversee the property and the tenant occupying same
--  To advise on the best rent accruable on the market
--  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
-- To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
-- To provide or communicate the approved payment details to tenants 
 - To monitor and reconcile all payments 
+
+
+- 
+- 
+- 
 - To maintain accurate records of rent received and outstanding 
 - To promptly follow up on any arrears or default. 
 - To review the rent payable on the properties after due consultation with the Appointor.
@@ -77,10 +83,7 @@ The Appointee hereby covenant with the appointor as follow:
 - Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
 - Each visit: written report, photos where needed, recommendations on maintenance, repairs, security or occupancy.
 
-### Clause 3(v) — Rental Advice
-
-
-
+### Clause 3(v) — 
 
 ### Clause 3(iv) — Records
 Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
