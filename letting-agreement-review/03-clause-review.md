@@ -69,22 +69,22 @@ The Appointee hereby covenant with the appointor as follow:
 - Correspondence on the Property
 - Other records relevant to the agreement.
 - To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same.
-### B. — Repairs and Maintenance
+### E. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval.**
 
-### C. — Emergency Repairs
+F. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
 
-### D. — Legal Matters
+### G. — Legal Matters
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
 
-### E. — Inspections 
+### H. — Inspections 
 - **Occupied units:** once every six (6) months.
 - **Vacant units:** once every month until re-let.
 - Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
