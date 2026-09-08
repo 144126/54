@@ -54,8 +54,8 @@ The Appointee hereby covenant with the appointor as follow:
 - To help recover rent
 - To coordinate enforcement
 - To monitor and reconcile all payments 
-
-
+### D. — Rent Payment  Records
+Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
 - 
 - 
 - 
