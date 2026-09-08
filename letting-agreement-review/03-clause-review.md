@@ -102,10 +102,8 @@ To maintain accurate records of:
 
 COMMENT
 Fair, subject to: getting adequate supporting information from the Appointee; reasonable notice where approval is needed; Appointee staying within granted authority.
-
-- **Clause 4(a)** — Accepted. Ownership papers and documents is reasonable.
 - **Clause 4(b)** — Needs clarification. Unclear if the fee is for letting, management, or both; first year's rent exclusion is inconsistent. Put all fees in one clause (see Clause 7).
-- **Clause 4(c)** — Accepted. Funding approved major repairs is right; link to the ₦100,000 threshold.
+- **Clause 4(c)** — Accepted. Link to the ₦100,000 threshold.
 
 ## Clause 5 — Reporting and Transparency
 
