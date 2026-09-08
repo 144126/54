@@ -16,23 +16,7 @@ Property Description:
 
 
 
-3. Authority of the Appointee
 
-The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
-
-Accept or reject any prospective tenant.
-
-Execute or renew any tenancy agreement.
-
-Grant rent concessions or discounts.
-
-Waive rent arrears.
-
-Alter any approved tenancy terms.
-
-Appoint contractors for major works.
-
-Commence legal proceedings except as expressly authorised by the Appointor.
 
 4. Approved Rent
 

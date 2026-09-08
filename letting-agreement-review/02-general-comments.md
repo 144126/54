@@ -76,26 +76,19 @@ Kindly,
 
 The Agreement should expressly state the appointment covers the **entire Property** in Schedule 1, including all present and future tenants and occupancies, except any area expressly reserved by the Appointor  Also, clarify that the Appointee is appointed as the exclusive letting and management agent for the property during the subsistence of this Agreement.
 
+## 8. Authority of the Appointee
 
-3. Authority of the Appointee
+- The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
+- Accept or reject any prospective tenant.
+- Execute or renew any tenancy agreement.
+- Grant rent concessions or discounts.
+- Waive rent arrears.
+- Alter any approved tenancy terms.
+- Appoint contractors for major works.
+- Commence legal proceedings except as expressly authorised by the Appointor.
 
-The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
 
-Accept or reject any prospective tenant.
-
-Execute or renew any tenancy agreement.
-
-Grant rent concessions or discounts.
-
-Waive rent arrears.
-
-Alter any approved tenancy terms.
-
-Appoint contractors for major works.
-
-Commence legal proceedings except as expressly authorised by the Appointor.
-
-## 8. Reserved Area
+## 9. Reserved Area Authority of the Appointee
 
 - The **Reserved Area** shall be identified in Schedule 1 (Schedule 3 for inventory detail) and is expressly excluded from the Appointee's letting and management responsibilities.
 - The Appointor retains the Reserved Area for exclusive use. It attracts **no rent, management fee or other charge**, being private property, not part of the income-producing premises.
@@ -103,6 +96,6 @@ Commence legal proceedings except as expressly authorised by the Appointor.
 - The Appointee may enter the Reserved Area only (a) with prior written or verbal consent of the Appointor, or (b) in a genuine emergency where immediate access is reasonably necessary to protect life or prevent substantial damage, with notice to the Appointor as soon as reasonably practicable after.
 - The Reserved Area shall not be in any tenancy, inventory or rent assessment. The Appointee shall not let, license, allocate, use or permit use of the Reserved Area without prior written approval. No tenant or third party shall be granted access. It remains under the sole possession and control of the Appointor.
 
-## 9. Definitions
+## 10. Definitions
 
 Define at minimum: **Agreement** • **Appointor** • **Appointee** • **Property** • **Reserved Area** • **Tenant** • **Rent** • **Security Deposit** • **Emergency Repairs** • **Major Repairs** • **Routine Repairs** • **Management Fee** • **Working Day** — plus any other terms needing definition.
