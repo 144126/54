@@ -54,7 +54,8 @@ The Appointee hereby covenant with the appointor as follow:
 - To advise on tenancy matters
 - To submit every new tenancy agreement to the Appointor for his scrutiny before adopting and getting the tenant to endorse same
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
-### D. — Monitoring and Property Inspections
+### D. — Monitoring and Property Inspections 
+
 - To oversee the property and the tenant occupying same 
 - To conduct routine inspections as follow:
     **Occupied units:** once every six (6) months.
@@ -209,7 +210,7 @@ The Appointee shall not, without the prior written approval of the Appointor, le
 
 ## G. New Clause — Right to Inspect Records
 
-The Appointor may, on reasonable notice, inspect and copy records on: rent collections; maintenance spend; invoices and receipts; security deposits; tenancy agreements; inspection reports.
+The Appointor may, on reasonable notice, inspect and copy records on: maintenance records; expenditure; invoices and receipts; security deposits; tenancy agreements; inspection reports.
 ### A. New Clause — Compliance 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
