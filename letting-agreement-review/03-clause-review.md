@@ -53,7 +53,8 @@ The Appointee hereby covenant with the appointor as follow:
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To undertake repairs up to **₦100,000** only without **prior written approval.**
-### Clause 3(v) — Repairs and Maintenance
+### C. — Legal Matters
+
 ### Clause 3(v) — Repairs and Maintenance 
 ### Clause 3(v) — Repairs and Maintenance
 
@@ -71,7 +72,7 @@ The Appointee hereby covenant with the appointor as follow:
 
 Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
 
-### Clause 3(vii) — Legal Matters
+### Clause 3(vii) — 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
