@@ -123,9 +123,11 @@ In addition to the quarterly report already provided for, each report should inc
 - Maintenance carried out.
 - Expenditure incurred.
 - Tenant issues.
-- nspection findings; recommendations. **Annual reports** add an overall performance summary.
+- Inspection findings.
+- Recommendations or improving the property's management.
+-  **Annual reports** add an overall performance summary.
 
-Recommendations for improving the property's management.
+Recommendations f
 ## Clause 6 — Insurance
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
