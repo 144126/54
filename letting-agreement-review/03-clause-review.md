@@ -136,11 +136,20 @@ The Appointee's responsibility shall be:
 - To  Assist in processing insurance claims where required.
 The Appointee  can only procure insurance with the prior approval of the Appointor. Insurance decisions stay with the Appointor. 
 
-## Clause 7 — Management Fees and Payments
+## Clause 7 — Management Fees and Payments 
 
 `REQUIRES CLARIFICATION AND CONSOLIDATION`
 
 COMMENT
+The provisions relating to management fees appear inconsistent.
+
+Kindly clarify:
+1. Whether the management fee is 10% of annual rent collected.
+2. Whether the first year's rent is excluded.
+3. Whether the fee covers letting only, management only or both.
+4. Whether there are any additional professional charges payable.
+It would be preferable for all fee-related provisions to be consolidated into one clear clause.
+
 Position: **10% of rent actually collected and remitted**, covering ordinary management. 
 Any separate letting, legal, filing or professional charge must be stated and need prior approval. Delete "excluding the first year's rent" or explain it if a separate letting commission is meant.
 
