@@ -35,6 +35,8 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 ## Clause 3 — Obligations of the Appointee
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
+
+The Appointee hereby covenant 
 ### A. — Rent Payment and Monitoring
 -  Oversee the property and the tenant occupying same
 - - Advise on the best rent accruable on the market
