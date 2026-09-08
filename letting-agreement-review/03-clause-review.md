@@ -74,7 +74,7 @@ The Appointee hereby covenant with the appointor as follow:
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
-- To undertake repairs up to **₦100,000** only without **prior written approval.**
+- To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
 ### F. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.

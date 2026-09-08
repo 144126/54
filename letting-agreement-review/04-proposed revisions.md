@@ -44,9 +44,7 @@ Any additional due diligence considered necessary by the Appointee.
 
 The Agreement should distinguish between routine and major repairs.
 
-The Appointee may undertake routine repairs costing up to ₦100,000 without obtaining prior approval.
 
-Any expenditure exceeding ₦100,000 shall require the prior written approval of the Appointor except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
 
 7. Emergency Repairs
 
