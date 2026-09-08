@@ -110,12 +110,8 @@ Fair, subject to: getting adequate supporting information from the Appointee; re
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
-Each **quarterly report**: rents collected; arrears; vacancies; maintenance done; spend; tenant issues; inspection findings; recommendations. **Annual reports** add an overall performance summary.
-
-## B. New Clause  — Financial Reporting
-
-In addition to the quarterly report already provided for, each report should include:
-
+COMMENT
+Each **quarterly report**  shall include: 
 Rent collected.
 
 Outstanding rent arrears.
@@ -126,7 +122,13 @@ Maintenance carried out.
 
 Expenditure incurred.
 
-Recommendations for improving the property's management.
+Recommendations for improving the property's management.rents collected; arrears; vacancies; maintenance done; spend; tenant issues; inspection findings; recommendations. **Annual reports** add an overall performance summary.
+
+## B. New Clause  — Financial Reporting
+
+In addition to the quarterly report already provided for, each report should include:
+
+
 ## Clause 6 — Insurance
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
