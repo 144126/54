@@ -42,7 +42,7 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 
 COMMENT
 The Appointee hereby covenant with the appointor as follow:
-### A. — Rental Advice 
+### A. — Rental Advice, Assessment and Review
 - To advice on best market trends, rents and conditions concerning the property acknowledging that **final approval of all rental rates stays with the Appointor**.
 ### B. — Monitoring
 -  To oversee the property and the tenant occupying same
