@@ -149,7 +149,9 @@ Any separate letting, legal, filing or professional charge must be stated and ne
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
 COMMENT
-Six months is too long — use **sixty (60) days' written notice** either way. Add **immediate termination** for: fraud; dishonesty; gross negligence; professional misconduct; material breach not fixed within fourteen (14) days; loss of licence or registration.
+Kindly reduce the notice period from six (6) months to sixty (60) **sixty (60) days' written notice** either way. 
+
+The Agreement should also provide for **immediate termination** in cases involving fraud, gross negligence, dishonesty, material breach or professional misconduct. not fixed within fourteen (14) days; loss of licence or registration.
 
 **Handover** (keep): keys; tenancy agreements; inspection reports; rent records; deposit records; correspondence; any balance held.
 
@@ -222,12 +224,6 @@ Please include a clause requiring the Appointee to comply with all applicable la
 
 The Agreement should provide that disputes shall first be resolved through negotiation. Where unresolved, the parties shall proceed to mediation before either party resorts to litigation.
 
-### A. New Clause — Termination
-
-I would prefer the notice period to be reduced from six (6) months to sixty (60) days.
-
-The Agreement should also provide for immediate termination in cases involving fraud, gross negligence, dishonesty, material breach or professional misconduct.
-
 ### A. New Clause — Management Fees
 
 The provisions relating to management fees appear inconsistent.
@@ -239,7 +235,7 @@ Kindly clarify:
 4. Whether there are any additional professional charges payable.
 It would be preferable for all fee-related provisions to be consolidated into one clear clause.
 
-22. Drafting Corrections
+### A. Drafting Corrections
 
 Kindly review the Agreement for typographical and grammatical consistency, including:
 
