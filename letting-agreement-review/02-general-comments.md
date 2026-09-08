@@ -74,7 +74,7 @@ Kindly,
 
 ## 7. Scope of Appointment
 
-The Agreement should expressly state the appointment covers the **entire Property** in Schedule 1, including all present and future tenants and occupancies, except any area expressly reserved by the Appointor.
+The Agreement should expressly state the appointment covers the **entire Property** in Schedule 1, including all present and future tenants and occupancies, except any area expressly reserved by the Appointor  Also, clarify that the Appointee is appointed as the exclusive letting and management agent for the property during the subsistence of this Agreement.
 
 ## 8. Reserved Area
 
@@ -86,4 +86,4 @@ The Agreement should expressly state the appointment covers the **entire Propert
 
 ## 9. Definitions
 
-Define at minimum: **Agreement** • **Appointor** • **Appointee** • **Property** • **Reserved Storage Area** • **Tenant** • **Rent** • **Security Deposit** • **Emergency Repairs** • **Major Repairs** • **Routine Repairs** • **Management Fee** • **Working Day** — plus any other terms needing definition.
+Define at minimum: **Agreement** • **Appointor** • **Appointee** • **Property** • **Reserved Area** • **Tenant** • **Rent** • **Security Deposit** • **Emergency Repairs** • **Major Repairs** • **Routine Repairs** • **Management Fee** • **Working Day** — plus any other terms needing definition.

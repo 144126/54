@@ -14,7 +14,7 @@ Property Description:
 
 2. Scope of Appointment
 
-Kindly clarify that the appointment relates to the entire property described in this Agreement and that the Appointee is appointed as the exclusive letting and management agent for the property during the subsistence of this Agreement.
+
 
 3. Authority of the Appointee
 
