@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,11 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e0b2ac1a3f73d6",
+  "active": "be5489fe9bb37071",
   "lastOpenFiles": [
-    "letting-agreement-review/02-general-comments.md",
-    "letting-agreement-review/03-clause-review.md",
+    "letting-agreement-review/05-letting-and-management-agreement.md",
     "letting-agreement-review/04-proposed revisions.md",
+    "letting-agreement-review/03-clause-review.md",
+    "letting-agreement-review/02-general-comments.md",
     "letting-agreement-review/01-cover-letter.md",
     "i.md",
     "Untitled 10.md",
@@ -258,7 +259,6 @@
     "deepresearch.md",
     "prompt for game to improve mental attribute.md",
     "Untitled 7.md",
-    "e4.md",
     "todo.canvas",
     "Untitled.canvas",
     "know.canvas",
