@@ -112,6 +112,21 @@ Fair, subject to: getting adequate supporting information from the Appointee; re
 
 Each **quarterly report**: rents collected; arrears; vacancies; maintenance done; spend; tenant issues; inspection findings; recommendations. **Annual reports** add an overall performance summary.
 
+## B. New Clause  — Financial Reporting
+
+In addition to the quarterly report already provided for, each report should include:
+
+Rent collected.
+
+Outstanding rent arrears.
+
+Vacant units.
+
+Maintenance carried out.
+
+Expenditure incurred.
+
+Recommendations for improving the property's management.
 ## Clause 6 — Insurance
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
@@ -129,21 +144,7 @@ The Appointee  can only procure insurance with the prior approval of the Appoint
 - Appointor may inspect records on reasonable notice; supporting papers shall be submitted on request.
 
 
-## B. New Clause  — Financial Reporting
 
-In addition to the quarterly report already provided for, each report should include:
-
-Rent collected.
-
-Outstanding rent arrears.
-
-Vacant units.
-
-Maintenance carried out.
-
-Expenditure incurred.
-
-Recommendations for improving the property's management.
 ## C. New Clause — Client Account
 
 > The Appointee shall maintain proper accounting procedures for all monies received on behalf of the Appointor he Appointor shall be entitled, upon reasonable notice, to inspect such records relating to her Property.
