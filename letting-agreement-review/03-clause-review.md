@@ -216,4 +216,50 @@ The Appointor may, on reasonable notice, inspect and copy records on: maintenanc
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
 Appointee must follow all applicable laws and professional standards for estate surveyors and valuers, keep all registrations and licences current, and confirm it is duly authorised to practise estate management in Nigeria.
+Please include a clause requiring the Appointee to comply with all applicable laws, regulations and recognised professional standards governing estate management and landlord-tenant relationships in Nigeria.
+
+19. Dispute Resolution
+
+The Agreement should provide that disputes shall first be resolved through negotiation. Where unresolved, the parties shall proceed to mediation before either party resorts to litigation.l
+
+20. Termination
+
+I would prefer the notice period to be reduced from six (6) months to sixty (60) days.
+
+The Agreement should also provide for immediate termination in cases involving fraud, gross negligence, dishonesty, material breach or professional misconduct.
+
+21. Management Fees
+
+The provisions relating to management fees appear inconsistent.
+
+Kindly clarify:
+
+Whether the management fee is 10% of annual rent collected.
+
+Whether the first year's rent is excluded.
+
+Whether the fee covers letting only, management only or both.
+
+Whether there are any additional professional charges payable.
+
+It would be preferable for all fee-related provisions to be consolidated into one clear clause.
+
+22. Drafting Corrections
+
+Kindly review the Agreement for typographical and grammatical consistency, including:
+
+"District" instead of "Ditrict".
+
+"Scrutiny" or "review" instead of "securitization."
+
+Consistent use of the feminine pronoun ("her") where referring to the Appointor.
+
+Consistent formatting, numbering and capitalization throughout the document.
+
+I believe the above revisions will further strengthen the Agreement, clearly define our respective responsibilities and reduce the likelihood of future misunderstandings.
+
+I look forward to receiving the revised draft for execution.
+
+Thank you.
+
 — End of Document 3 of 3 —
