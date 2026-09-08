@@ -81,6 +81,7 @@ The Appointee hereby covenant with the appointor as follow:
 
 
 
+
 ### Clause 3(iv) — 
 
 `NOT ACCEPTED — CORRECTED WORDING`
