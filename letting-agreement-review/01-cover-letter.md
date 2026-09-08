@@ -17,7 +17,7 @@ Thank you for forwarding the Draft Letting and Property Management Agreement bet
 
 I have carefully reviewed the draft to ensure it reflects the intentions of both parties, defines our respective responsibilities, and provides a practical framework for effective management of the property.
 
-The description of the property should be more comprehensive and specific. Kindly replace the current description with the full description of the property, including the plot number (where available), the number and type of buildings/units and any other identifying particulars to eliminate ambiguity.
+The description of the property should be more comprehensive and specific. Kindly replace the current description with the full description of the property, including the number and type of buildings/units and any other identifying particulars to eliminate ambiguity.
 
 Overall the draft is a good foundation. I would be grateful if the comments, clarifications and proposed amendments set out in the enclosed documents could be incorporated before execution. 
 They are intended to strengthen the Agreement, remove ambiguity, and minimise future misunderstanding, while remaining fair to both sides.
