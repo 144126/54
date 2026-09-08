@@ -29,8 +29,7 @@ The Agreement should expressly state the appointment covers the **entire Propert
 ## Clause 2 — Duration
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
-
-Two-year term is fine. Add: renewal only by **mutual written agreement**; performance review before renewal; continuation only where both parties are satisfied.
+Kindly add: renewal only by **mutual written agreement**; performance review before renewal and continuation only where both parties are satisfied.
 
 ## Clause 3 — Obligations of the Appointee
 
