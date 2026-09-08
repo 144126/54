@@ -82,7 +82,9 @@ The Appointee hereby covenant with the appointor as follow:
 
 
 
-### Clause 3(iv) — 
+### Clause 3(iv) — Records
+Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
+
 
 `NOT ACCEPTED — CORRECTED WORDING`
 
@@ -118,11 +120,10 @@ Add:
 
 Appointee advises on market rents and conditions; **final approval of all rental rates stays with the Appointor**.
 
-### Clause 3(xii) — Records
+### Clause 3(xii) — 
 
 `ACCEPTED`
 
-Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
 
 
 ### A. New Clause — Compliance 
