@@ -20,14 +20,14 @@ I have carefully reviewed the draft to ensure it reflects the intentions of both
 The description of the property should be more comprehensive and specific. Kindly replace the current description with the full description of the property, including the number and type of buildings/units and any other identifying particulars to eliminate ambiguity.
 
 Overall the draft is a good foundation. I would be grateful if the comments, clarifications and proposed amendments set out in the enclosed documents could be incorporated before execution. 
-They are intended to strengthen the Agreement and remove ambiguity to minimise future misunderstanding, while remaining fair to both sides.
+They are intended to strengthen the Agreement and remove ambiguity for avoidance of future misunderstanding, while remaining fair to both sides.
 
 **Enclosed:**
 - **Document 2** — General Comments and Preliminary Matters (insurance, licensing, structure, property description, scope, reserved area, definitions).
  - **Document 3** — Clause-by-Clause Review and Proposed Amendments (Clauses 1–11) with proposed new clauses and replacement wording.
  
  - I look forward to receiving a revised draft reflecting these points, after which I shall be pleased to proceed to execution.
- -
+I 
 
 Yours faithfully,
 
