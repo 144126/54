@@ -1,5 +1,17 @@
 allow, sleep, think
 
+what do i wanna feel
+i'm always wrong
+see why wrong
+requirements are dumb
+seek new info
+recall
+see worst future, see future where wrong
+see different possibilities
+anything is possible
+
+
+
 certain extreme goal
 
 believe anything is possible

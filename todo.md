@@ -2,9 +2,8 @@ comfort and satisfaction
 do what you want
 there's no gain in effort
 
-rollback to orpheus 2
-sure of orpheus2 transcribe
-make hyperframe vid to orpheus2
+create ligthning.ai skill
+use skill to make edi use lightning.ai
 
 shazam and download trumpet sound audio
 add muscriptor to edi
