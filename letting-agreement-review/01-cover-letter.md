@@ -19,11 +19,12 @@ I have carefully reviewed the draft to ensure it reflects the intentions of both
 
 Overall the draft is a good foundation. I would be grateful if the comments, clarifications and proposed amendments set out in the enclosed documents could be incorporated before execution. They are intended to strengthen the Agreement, remove ambiguity, and minimise future misunderstanding, while remaining fair to both sides.
 
-> **Enclosed:**
-> - **Document 2** — General Comments and Preliminary Matters (insurance, licensing, structure, property description, scope, reserved area, definitions).
-> - **Document 3** — Clause-by-Clause Review and Proposed Amendments (Clauses 1–11) with proposed new clauses and replacement wording.
-
-I look forward to receiving a revised draft reflecting these points, after which I shall be pleased to proceed to execution.
+**Enclosed:**
+- **Document 2** — General Comments and Preliminary Matters (insurance, licensing, structure, property description, scope, reserved area, definitions).
+ - **Document 3** — Clause-by-Clause Review and Proposed Amendments (Clauses 1–11) with proposed new clauses and replacement wording.
+ 
+ - I look forward to receiving a revised draft reflecting these points, after which I shall be pleased to proceed to execution.
+ -
 
 Yours faithfully,
 
