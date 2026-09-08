@@ -41,7 +41,9 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rent Payment and Monitoring
 
--  To advise on tenancy matters, help recover rent, coordinate enforcement, liaise with solicitors — but shall not suggest independent court representation unless legally entitled. Legal proceedings go through **solicitors approved by the Appointor**.To oversee the property and the tenant occupying same
+-  To advise on tenancy matters
+- To help recover rent
+- To coordinate enforcement, liaise with solicitors — but shall not suggest independent court representation unless legally entitled. Legal proceedings go through **solicitors approved by the Appointor**.To oversee the property and the tenant occupying same
 -  To advise on the best rent accruable on the market
 -  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
