@@ -28,6 +28,7 @@ The Agreement should expressly provide that the Appointee shall not, without the
 - Undertake repairs up to **₦100,000**. Repairs above ₦100,000 needs **prior written approval**, except emergencies.
 - Appoint contractors for major works.
 - Commence legal proceedings except as expressly authorised by the Appointor.
+- 
 ## Clause 2 — Duration
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
