@@ -11,6 +11,9 @@ Plot 51, Cadastral Zone, Phase 1, Site 1, P.W., Kubwa, Abuja-FCT
 - Cover **both existing and future tenancies** during the term.
 - Authority shall be exercised strictly per the Agreement and not beyond what is expressly granted.
 
+### A. New Clause — Scope of the Appointment
+
+The Agreement should expressly state the appointment covers the **entire Property** in Schedule 1, including all present and future tenants and occupancies, except any area expressly reserved by the Appointor  Also, clarify that the Appointee is appointed as the exclusive letting and management agent for the property during the subsistence of this Agreement.
 ## Clause 2 — Duration
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
