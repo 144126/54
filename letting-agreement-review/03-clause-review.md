@@ -5,7 +5,7 @@ Plot 51, Cadastral Zone, Phase 1, Site 1, P.W., Kubwa, Abuja-FCT
 
 ## Clause 1 — Appointment
 
-`ACCEPTED, SUBJECT TO AMENDMENT``
+`ACCEPTED, SUBJECT TO AMENDMENT
 COMMENT`
 - State the Appointee is the **exclusive** letting and property management agent for the entire Property in Schedule 1.
 - Cover **both existing and future tenancies** during the term.
