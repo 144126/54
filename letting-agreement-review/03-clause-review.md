@@ -76,7 +76,7 @@ To maintain accurate records of:
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
 - To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
-### D. — Key Management
+### D. — Keys and Access Management
 - To maintain a key register
 - To keep all spare keys securely and maintain proper records of keys issued and returned.
 ### G. — Emergency Repairs
