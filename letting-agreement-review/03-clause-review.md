@@ -28,7 +28,7 @@ The Agreement should expressly provide that the Appointee shall not, without the
 - Undertake repairs up to **₦100,000**. Repairs above ₦100,000 needs **prior written approval**, except emergencies.
 - Appoint contractors for major works.
 - Commence legal proceedings except as expressly authorised by the Appointor. Legal proceedings are to go through **solicitors approved by the Appointor**.
-- 
+
 ## Clause 2 — Duration
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
@@ -43,14 +43,14 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 COMMENT
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rental Advice 
-- To advise on the best rent accruable on the market
-- To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
+- To advice on best market trends, rents and conditions concerning the property acknowledging that **final approval of all rental rates stays with the Appointor**.
 ### B. — Monitoring
 -  To oversee the property and the tenant occupying same
 - To advise on tenancy matters
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
 ### C. — Rent Payment 
--  To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
+-  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
+- To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
 - To help recover rent
 - To coordinate enforcement
@@ -67,75 +67,25 @@ The Appointee hereby covenant with the appointor as follow:
 - Invoices and receipts
 - Inspection reports
 - Correspondence on the Property
+- To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same
 - Other records relevant to the agreement.
-- To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same.
 ### E. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval.**
-
-F. — Emergency Repairs
+### F. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
-
 ### G. — Legal Matters
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
-
 ### H. — Inspections 
 - **Occupied units:** once every six (6) months.
 - **Vacant units:** once every month until re-let.
 - Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
 - Each visit: written report, photos where needed, recommendations on maintenance, repairs, security or occupancy.
-
-### Clause 3(v) — 
-
-### Clause 3(iv) — Records
-Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
-
-
-`NOT ACCEPTED — CORRECTED WORDING`
-
-> 
-
-### Clause 3(vi) — 
-
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
-
-
-### Clause 3(vii) — 
-
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
-
-
-### Clause 3(viii)
-
-`ACCEPTED`
-
-Add: 
-
-### Clause 3(ix) 
-
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
-
-
-### Clause 3(x) — 
-
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
-Appointee advises on market rents and conditions; **final approval of all rental rates stays with the Appointor**.
-
-### Clause 3(xii) — 
-
-`ACCEPTED`
-
-
-
 ### A. New Clause — Compliance 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
