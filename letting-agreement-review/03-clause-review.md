@@ -44,11 +44,31 @@ COMMENT
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rental Assessment and Review
 - To advice on best market trends, rents and conditions about the property acknowledging that **final approval of all rental rates stays with the Appointor**.
-### B. — Tenant Selection and Approval 
-- To advise on tenancy matters
+### B. — Tenant Screening
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
+### B. — Tenant  Selection and Approval 
+- To advise on tenancy matters
 - To submit every new tenancy agreement to the Appointor for his scrutiny before adopting and getting the tenant to endorse same
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
+
+Tenant Screening
+
+Kindly expand the tenant screening obligations to include verification of:
+
+Employment and/or source of income.
+
+Valid means of identification.
+
+Guarantors where applicable.
+
+Previous landlord references where available.
+
+Any additional due diligence considered necessary by the Appointee.
+
+6. Repairs and Maintenance
+
+The Agreement should distinguish between routine and major repairs.
+
 ### C. — Monitoring and Property Inspections
 - To oversee the property and the tenant occupying same 
 - Routine inspections should be conducted:

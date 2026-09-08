@@ -26,24 +26,7 @@ Approved Annual Rent:
 
 ₦ ___________________________________
 
-5. Tenant Screening
-
-Kindly expand the tenant screening obligations to include verification of:
-
-Employment and/or source of income.
-
-Valid means of identification.
-
-Guarantors where applicable.
-
-Previous landlord references where available.
-
-Any additional due diligence considered necessary by the Appointee.
-
-6. Repairs and Maintenance
-
-The Agreement should distinguish between routine and major repairs.
-
+5
 
 
 7. 
