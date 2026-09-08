@@ -138,18 +138,40 @@ The Appointee  can only procure insurance with the prior approval of the Appoint
 - Accurate accounts shall be kept of any funds belonging to the Appointor **separate** from the Appointee's operating funds.
 - Appointor may inspect records on reasonable notice; supporting papers shall be submitted on request.
 
-## D. New Clause — Security Deposits
-
-- Deposits collected from tenants; amount approved by the Appointor.
-- Unless agreed otherwise — Flats: **one month's rent**; Duplex: **two months' rent**.
-- Used only for: rent arrears; damage beyond fair wear and tear; missing items; cleaning; unpaid utilities.
-- Balance refunded after final inspection. 
-
 ## Clause 7 — Fees and Payments
 
 `REQUIRES CLARIFICATION AND CONSOLIDATION`
 
 Position: **10% of rent actually collected and remitted**, covering ordinary management. Any separate letting, legal, filing or professional charge must be stated and need prior approval. Delete "excluding the first year's rent" or explain it if a separate letting commission is meant.
+
+## D. New Clause — Security Deposits
+
+- Deposits collected from tenants; amount approved by the Appointor.
+- Unless agreed otherwise — Flats: **one month's rent**; Duplex: **two months' rent**.
+- Used only for: rent arrears; damage beyond fair wear and tear; missing items; cleaning; unpaid utilities.
+- Balance refunded after final inspection. Security Deposit
+
+The Agreement should clearly state:
+
+The amount of security deposit to be collected.
+
+Who shall hold the security deposit.
+
+Circumstances under which deductions may be made.
+
+Procedure for refund upon termination of tenancy.
+
+Security Deposit:
+
+  
+
+9. 
+
+10. Client Account
+
+Kindly confirm that all rent collected on behalf of landlords is maintained in a designated client account in accordance with professional estate management practice prior to remittance.
+
+
 
 > Proposed wording: "The Appointee shall be entitled to a Management Fee equal to ten percent (10%) of all rent actually collected and remitted on behalf of the Appointor. The Management Fee may be deducted before remittance of rent to the Appointor. No additional fee shall be charged except with the prior written approval of the Appointor."
 
