@@ -70,8 +70,14 @@ The Appointee hereby covenant with the appointor as follow:
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
-### Clause 3(v) — Repairs and Maintenance 
-### Clause 3(v) — Repairs and Maintenance
+
+### E. — Inspections 
+- **Occupied units:** once every six (6) months.
+- **Vacant units:** once every month until re-let.
+- Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
+- Each visit: written report, photos where needed, recommendations on maintenance, repairs, security or occupancy.
+
+### Clause 3(v) — Rental Advice
 
 
 
@@ -99,16 +105,13 @@ The Appointee hereby covenant with the appointor as follow:
 
 Add: 
 
-### Clause 3(ix) — Inspections
+### Clause 3(ix) 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
-- **Occupied units:** once every six (6) months.
-- **Vacant units:** once every month until re-let.
-- Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
-- Each visit: written report, photos where needed, recommendations on maintenance, repairs, security or occupancy.
 
-### Clause 3(x) — Rental Advice
+
+### Clause 3(x) — 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
