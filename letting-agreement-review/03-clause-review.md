@@ -127,14 +127,14 @@ The Appointee's responsibility should be:
 - To  Notify the Appointor promptly of any incident likely to give rise to an insurance claim.
 
 - To  Assist in processing insurance claims where required.
-
-The Appointee  cannot procure insurance without the prior approval of the Appointor. Insurance decisions stay with the Appointor. 
+The Appointee  can only procure insurance with the prior approval of the Appointor. Insurance decisions stay with the Appointor. 
 ## B. New Clause  — Financial Management
 
-- Landlord funds kept **separate** from the Appointee's operating funds.
-- Accurate accounts kept.
-- Appointor may inspect records on reasonable notice; supporting papers on request.
-11. Financial Reporting
+- Accurate accounts shall be kept of any funds belonging to the Appointor **separate** from the Appointee's operating funds.
+- Appointor may inspect records on reasonable notice; supporting papers shall be submitted on request.
+
+
+## B. New Clause  — Financial Reporting
 
 In addition to the quarterly report already provided for, each report should include:
 
