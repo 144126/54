@@ -49,8 +49,14 @@ The Appointee hereby covenant with the appointor as follow:
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
 - To submit every new tenancy agreement to the Appointor for his scrutiny before adopting and getting the tenant to endorse same
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
-### C. — Monitoring
-- To oversee the property and the tenant occupying same
+### C. — Monitoring and Property Inspections
+- To oversee the property and the tenant occupying same 
+- Routine inspections should be conducted:  Every six (6) months for occupied premises.
+- 
+                                    Monthly for vacant premises until re-let.
+                                    
+
+Each inspection should be accompanied by a written report and photographs where appropriate.
 ### D. — Rent Collection and Remittance
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
@@ -90,15 +96,6 @@ Expenditure incurred.
 
 Recommendations for improving the property's management.
 
-12. Property Inspections
-
-Routine inspections should be conducted:
-
-Every six (6) months for occupied premises.
-
-Monthly for vacant premises until re-let.
-
-Each inspection should be accompanied by a written report and photographs where appropriate.
 
 13. Key Management
 
