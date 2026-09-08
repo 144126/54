@@ -25,8 +25,7 @@ The Agreement should expressly provide that the Appointee shall not, without the
 - Grant rent concessions or discounts.
 - Waive rent arrears.
 - Alter any approved tenancy terms.
-- epairs up to **₦100,000** without prior approval.
-- Undertake repairs above ₦100,000 needs **prior written approval**, except emergencies.
+- Undertake repairs up to **₦100,000**. Repairs above ₦100,000 needs **prior written approval**, except emergencies.
 - Appoint contractors for major works.
 - Commence legal proceedings except as expressly authorised by the Appointor.
 ## Clause 2 — Duration
@@ -51,7 +50,8 @@ The Appointee hereby covenant with the appointor as follow:
 
 ### B. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
-- 
+- To carry out instruction of the Appointor as regard repairs 
+- To undertake repairs up to **₦100,000** only without **prior written approval.**
 ### Clause 3(v) — Repairs and Maintenance
 ### Clause 3(v) — Repairs and Maintenance 
 ### Clause 3(v) — Repairs and Maintenance
