@@ -19,11 +19,8 @@ The Agreement should expressly state the appointment covers the **entire Propert
 ### B. New Clause — Authority of the Appointee
 
 The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
--  Oversee the property and the tenant occupying same
 - Accept or reject any prospective tenant.
 - Execute or renew any tenancy agreement.
-- Advise on the best rent accruable on the market
-- Lease the property to an approved prospective tenant at the agreed rent terms by the prospector 
 - Grant rent concessions or discounts.
 - Waive rent arrears.
 - Alter any approved tenancy terms.
@@ -39,6 +36,16 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 ### Clause 3(v) — Repairs and Maintenance
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
+
+### Clause 3(v) — Repairs and Maintenance
+-  Oversee the property and the tenant occupying same
+- - Advise on the best rent accruable on the market
+- - Lease the property to an approved prospective tenant at the agreed rent terms by the Appointor
+- To 
+### Clause 3(v) — Repairs and Maintenance
+### Clause 3(v) — Repairs and Maintenance
+### Clause 3(v) — Repairs and Maintenance 
+### Clause 3(v) — Repairs and Maintenance
 
 The Agreement should expressly provide that the Appointee shall:
 - Undertake Distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
