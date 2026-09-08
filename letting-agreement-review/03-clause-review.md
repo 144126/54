@@ -27,7 +27,7 @@ The Agreement should expressly provide that the Appointee shall not, without the
 - Alter any approved tenancy terms.
 - Undertake repairs up to **₦100,000**. Repairs above ₦100,000 needs **prior written approval**, except emergencies.
 - Appoint contractors for major works.
-- Commence legal proceedings except as expressly authorised by the Appointor.
+- Commence legal proceedings except as expressly authorised by the Appointor. — but shall not suggest independent court representation unless legally entitled. Legal proceedings go through **solicitors approved by the Appointor**.
 - 
 ## Clause 2 — Duration
 
@@ -43,7 +43,8 @@ The Appointee hereby covenant with the appointor as follow:
 
 -  To advise on tenancy matters
 - To help recover rent
-- To coordinate enforcement, liaise with solicitors — but shall not suggest independent court representation unless legally entitled. Legal proceedings go through **solicitors approved by the Appointor**.To oversee the property and the tenant occupying same
+- To coordinate enforcement, liaise with solicitors 
+- To oversee the property and the tenant occupying same
 -  To advise on the best rent accruable on the market
 -  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
