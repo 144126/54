@@ -45,36 +45,22 @@ The Appointee hereby covenant with the appointor as follow:
 ### A. — Rental Assessment and Review
 - To advice on best market trends, rents and conditions about the property acknowledging that **final approval of all rental rates stays with the Appointor**.
 ### B. — Tenant Screening
-- To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
-### B. — Tenant  Selection and Approval 
+- To secure and screen new tenants for any vacant apartment after due consultation with the Appointor. Screening shall include but not limited to:
+     Employment and/or source of income.
+     Valid means of identification.
+     Guarantors where applicable.
+     Previous landlord references where available.
+     Any additional due diligence considered necessary by the Appointee.
+### C. — Tenant  Selection and Approval 
 - To advise on tenancy matters
 - To submit every new tenancy agreement to the Appointor for his scrutiny before adopting and getting the tenant to endorse same
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
-
-Tenant Screening
-
-Kindly expand the tenant screening obligations to include verification of:
-
-Employment and/or source of income.
-
-Valid means of identification.
-
-Guarantors where applicable.
-
-Previous landlord references where available.
-
-Any additional due diligence considered necessary by the Appointee.
-
-6. Repairs and Maintenance
-
-The Agreement should distinguish between routine and major repairs.
-
-### C. — Monitoring and Property Inspections
+### D. — Monitoring and Property Inspections
 - To oversee the property and the tenant occupying same 
 - Routine inspections should be conducted:
-    Every six (6) months for occupied premises. Monthly for vacant premises until re-let.
+     Every six (6) months for occupied premises. Monthly for vacant premises until re-let.
 - Each inspection should be accompanied by a written report and photographs where appropriate.
-### D. — Rent Collection and Remittance
+### E. — Rent Collection and Remittance
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
 - To help recover rent
@@ -82,7 +68,7 @@ The Agreement should distinguish between routine and major repairs.
 - To monitor and reconcile all payments 
 - To promptly follow up on any arrears or default
 - To review the rent payable on the properties after due consultation with the Appointor 
-### E. — Rent Payment  Records
+### G. — Rent Payment  Records
 To maintain accurate records of: 
 - Rent received and outstanding 
 - Tenant records
@@ -90,32 +76,27 @@ To maintain accurate records of:
 - Rent schedules
 - Correspondence on the Property
 - Other records relevant to the agreement.
-### F. — Repairs and Maintenance
+### H. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
 - To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
-### G. — Emergency Repairs
+### I. — Emergency Repairs
 - To undertake emergency repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - To notify the Appointor at once or as soon as practicable, provide supporting photographs where appropriate, retain all receipts and submit a written report explaining the circumstances and work carried out.
-### D. — Keys and Access Management
+### J. — Keys and Access Management
 - To maintain a key register
 - To keep all spare keys securely and maintain proper records of keys issued and returned.
-### H. — Legal Matters
+### K. — Legal Matters
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
-### I. — Inspections 
+### L. — Inspections 
 - **Occupied units:** once every six (6) months.
 - **Vacant units:** once every month until re-let.
 - Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
 - Each visit: written report, photos where needed, recommendations on maintenance, repairs, security or occupancy.
-### A. New Clause — Compliance 
-
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
-Appointee must follow all applicable laws and professional standards for estate surveyors and valuers, keep all registrations and licences current, and confirm it is duly authorised to practise estate management in Nigeria.
 
 ## Clause 4 — Obligations of the Appointor
 
@@ -213,5 +194,9 @@ Key register (keys in/out, date, recipient, return date). Spares kept secure. No
 ## G. New Clause — Right to Inspect Records
 
 The Appointor may, on reasonable notice, inspect and copy records on: rent collections; maintenance spend; invoices and receipts; security deposits; tenancy agreements; inspection reports.
+### A. New Clause — Compliance 
 
+`ACCEPTED, SUBJECT TO AMENDMENT`
+
+Appointee must follow all applicable laws and professional standards for estate surveyors and valuers, keep all registrations and licences current, and confirm it is duly authorised to practise estate management in Nigeria.
 — End of Document 3 of 3 —
