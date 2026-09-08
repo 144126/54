@@ -19,8 +19,11 @@ The Agreement should expressly state the appointment covers the **entire Propert
 ### B. New Clause — Authority  and Obligations of the Appointee
 
 The Agreement should expressly provide that the Appointee shall not, without the prior written approval of the Appointor:
--  Accept or reject any prospective tenant.
+-  Oversee the property and the tenant occupying same
+- Accept or reject any prospective tenant.
 - Execute or renew any tenancy agreement.
+- Advise on the best rent accruable on the market
+- Lease the property to an approved prospective tenant at the agreed rent terms by the prospector 
 - Grant rent concessions or discounts.
 - Waive rent arrears.
 - Alter any approved tenancy terms.
