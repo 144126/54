@@ -72,9 +72,7 @@ Kindly,
 | **Plot Number** | N/A |
 | **Survey Plan Number** | N/A |
 
-## 7. Scope of Appointment
-
-The Agreement should expressly state the appointment covers the **entire Property** in Schedule 1, including all present and future tenants and occupancies, except any area expressly reserved by the Appointor  Also, clarify that the Appointee is appointed as the exclusive letting and management agent for the property during the subsistence of this Agreement.
+## 7. 
 
 ## 8. Authority of the Appointee
 
