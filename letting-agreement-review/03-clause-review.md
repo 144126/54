@@ -68,10 +68,7 @@ The Appointee hereby covenant with the appointor as follow:
 - Inspection reports
 - Correspondence on the Property
 - Other records relevant to the agreement.
-
-- 
 - To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same.
-
 ### B. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
