@@ -100,6 +100,7 @@ To maintain accurate records of:
 
 `GENERALLY ACCEPTED`
 
+COMMENT
 Fair, subject to: getting adequate supporting information from the Appointee; reasonable notice where approval is needed; Appointee staying within granted authority.
 
 - **Clause 4(a)** — Accepted. Ownership papers and documents is reasonable.
@@ -126,6 +127,7 @@ In addition to the quarterly report already provided for, each report should inc
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
+COMMENT
 The Appointee's responsibility shall be:
 - To advise the Appointor regarding appropriate insurance.
 - To obtain quotations where requested.
@@ -142,7 +144,9 @@ The Appointee  can only procure insurance with the prior approval of the Appoint
 
 `REQUIRES CLARIFICATION AND CONSOLIDATION`
 
-Position: **10% of rent actually collected and remitted**, covering ordinary management. Any separate letting, legal, filing or professional charge must be stated and need prior approval. Delete "excluding the first year's rent" or explain it if a separate letting commission is meant.
+COMMENT
+Position: **10% of rent actually collected and remitted**, covering ordinary management. 
+Any separate letting, legal, filing or professional charge must be stated and need prior approval. Delete "excluding the first year's rent" or explain it if a separate letting commission is meant.
 ## D. New Clause — Security Deposits
 
 - Deposits collected from tenants; amount approved by the Appointor.
