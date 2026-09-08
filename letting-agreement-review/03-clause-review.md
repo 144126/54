@@ -44,15 +44,14 @@ COMMENT
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rental Assessment and Review
 - To advice on best market trends, rents and conditions about the property acknowledging that **final approval of all rental rates stays with the Appointor**.
-- - To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same
 ### B. — Tenant Selection and Approval 
 - To advise on tenancy matters
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
--  To monitor and keep record of all property inspection visits by prospective tenants
+- To submit every new tenancy agreement to the Appointor for his scrutiny before adopting and getting the tenant to endorse same
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 ### C. — Monitoring
 - To oversee the property and the tenant occupying same
-### C. — Rent Payment 
+### D. — Rent Payment 
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
 - To help recover rent
@@ -60,7 +59,7 @@ The Appointee hereby covenant with the appointor as follow:
 - To monitor and reconcile all payments 
 - To promptly follow up on any arrears or default
 - To review the rent payable on the properties after due consultation with the Appointor 
-### D. — Rent Payment  Records
+### E. — Rent Payment  Records
 To maintain accurate records of: 
 - Rent received and outstanding 
 - Tenant records
@@ -68,20 +67,20 @@ To maintain accurate records of:
 - Rent schedules
 - Correspondence on the Property
 - Other records relevant to the agreement.
-### E. — Repairs and Maintenance
+### F. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
 - T-  To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
-### F. — Emergency Repairs
+### G. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
-### G. — Legal Matters
+### H. — Legal Matters
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
-### H. — Inspections 
+### I. — Inspections 
 - **Occupied units:** once every six (6) months.
 - **Vacant units:** once every month until re-let.
 - Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
