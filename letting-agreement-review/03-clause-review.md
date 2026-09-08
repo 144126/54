@@ -112,20 +112,18 @@ Fair, subject to: getting adequate supporting information from the Appointee; re
 
 COMMENT
 Each **quarterly report**  shall include: 
-rents collected; arrears; vacancies; maintenance done; spend; tenant issues; inspection findings; recommendations. **Annual reports** add an overall performance summary.
+rents collected; arrears; vacancies; maintenance done; spend; t
 
 ## B. New Clause  — Financial Reporting
 
 In addition to the quarterly report already provided for, each report should include:
 - Rent collected.
-- 
-Outstanding rent arrears.
-
-Vacant units.
-
-Maintenance carried out.
-
-Expenditure incurred.
+- Outstanding rent arrears.
+- Vacant units.
+- Maintenance carried out.
+- Expenditure incurred.
+- Tenant issues.
+- nspection findings; recommendations. **Annual reports** add an overall performance summary.
 
 Recommendations for improving the property's management.
 ## Clause 6 — Insurance
