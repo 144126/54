@@ -117,7 +117,21 @@ Each **quarterly report**: rents collected; arrears; vacancies; maintenance done
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
 Insurance decisions stay with the Appointor. The Appointee shall: advise on cover; get quotes when asked; help with renewals when told to; flag incidents that may lead to claims; help with claims when needed. No insurance bought without prior approval.
+15. Insurance
 
+The Appointee's responsibility should be to:
+
+Advise the Appointor regarding appropriate insurance.
+
+Obtain quotations where requested.
+
+Assist in arranging insurance where instructed.
+
+Notify the Appointor promptly of any incident likely to give rise to an insurance claim.
+
+Assist in processing insurance claims where required.
+
+The Appointee should not procure insurance without the prior approval of the Appointor.
 ## B. New Clause  — Financial Management
 
 - Landlord funds kept **separate** from the Appointee's operating funds.

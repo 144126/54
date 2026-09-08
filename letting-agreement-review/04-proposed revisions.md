@@ -44,21 +44,7 @@ Procedure for refund upon termination of tenancy.
 
 
 
-15. Insurance
 
-The Appointee's responsibility should be to:
-
-Advise the Appointor regarding appropriate insurance.
-
-Obtain quotations where requested.
-
-Assist in arranging insurance where instructed.
-
-Notify the Appointor promptly of any incident likely to give rise to an insurance claim.
-
-Assist in processing insurance claims where required.
-
-The Appointee should not procure insurance without the prior approval of the Appointor.
 
 16. Conflict of Interest
 
