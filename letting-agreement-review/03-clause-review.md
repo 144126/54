@@ -5,8 +5,8 @@ Plot 51, Cadastral Zone, Phase 1, Site 1, P.W., Kubwa, Abuja-FCT
 
 ## Clause 1 — Appointment
 
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
+`ACCEPTED, SUBJECT TO AMENDMENT``
+COMMENT`
 - State the Appointee is the **exclusive** letting and property management agent for the entire Property in Schedule 1.
 - Cover **both existing and future tenancies** during the term.
 - Authority shall be exercised strictly per the Agreement and not beyond what is expressly granted.
@@ -32,12 +32,15 @@ The Agreement should expressly provide that the Appointee shall not, without the
 ## Clause 2 — Duration
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
+
+COMMENT
 Kindly add: renewal only by **mutual written agreement**; performance review before renewal and continuation only where both parties are satisfied.
 
 ## Clause 3 — Obligations of the Appointee
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
+COMMENT
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rental Advice 
 - To advise on the best rent accruable on the market
