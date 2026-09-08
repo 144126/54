@@ -81,7 +81,7 @@ The Appointee hereby covenant with the appointor as follow:
 
 > 
 
-### Clause 3(vi) — Emergency Repairs
+### Clause 3(vi) — 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
