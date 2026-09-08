@@ -37,11 +37,10 @@ The Appointee hereby covenant with the appointor as follows:
 - To carry out instruction of the Appointor as regard repairs.
 - 
 - 
-- To represent / supervise and organize repairs that may be so determined by the Appointor.
+- 
 - On collection of rent, pay same into Appointor’s account as provided by the Appointor not later than 48hours of such collections except otherwise instructed by the appointer.
-- To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
-- To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same.
-4. OBLIGATIONS OF THE APPOINTOR
+- 
+1. OBLIGATIONS OF THE APPOINTOR
 The Appointor shall:
 - Provide the Appointee with all necessary documents, information, and access to the Property to enable performance of its duties.
 - Be responsible for the payment of the agreed Letting Management Fee to the Appointee, which is put at 10 percent (10%) of the rental value excluding the first year rent.
