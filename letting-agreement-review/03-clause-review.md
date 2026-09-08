@@ -40,6 +40,7 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
+The Agreement should expressly provide that the Appointee shall:
 - Undertake Distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - Routine Repairs up to **₦100,000** without prior approval.
 - Above ₦100,000 needs **prior written approval**, except emergencies.
