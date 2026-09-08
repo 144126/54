@@ -57,9 +57,11 @@ The Appointee hereby covenant with the appointor as follow:
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 ### D. — Monitoring and Property Inspections
 - To oversee the property and the tenant occupying same 
-- Routine inspections should be conducted:
-     Every six (6) months for occupied premises. Monthly for vacant premises until re-let.
-- Each inspection should be accompanied by a written report and photographs where appropriate.
+- To conduct routine inspections as follow:
+    **Occupied units:** once every six (6) months.
+    **Vacant units:** once every month until re-let.
+- To report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly.
+-  To report each inspection visit by a written report and photographs where appropriate, recommendations on maintenance, repairs, security or occupancy.
 ### E. — Rent Collection and Remittance
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
@@ -92,11 +94,7 @@ To maintain accurate records of:
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
-### L. — Inspections 
-- **Occupied units:** once every six (6) months.
-- **Vacant units:** once every month until re-let.
-- Report significant complaints, disputes, tenancy breaches, or incidents affecting the Property promptly**.
-- Each visit: written report, photos where needed, recommendations on maintenance, repairs, security or occupancy.
+
 
 ## Clause 4 — Obligations of the Appointor
 

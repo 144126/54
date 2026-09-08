@@ -26,7 +26,7 @@ Approved Annual Rent:
 
 ₦ ___________________________________
 
-5
+
 
 
 7. 
@@ -42,21 +42,7 @@ Circumstances under which deductions may be made.
 
 Procedure for refund upon termination of tenancy.
 
-Security Deposit:
 
-  
-
-9. 
-
-10. Client Account
-
-Kindly confirm that all rent collected on behalf of landlords is maintained in a designated client account in accordance with professional estate management practice prior to remittance.
-
-
-
-14. Legal Proceedings
-
-Clause 3(vii) should be revised to clarify that the Appointee shall coordinate legal proceedings through solicitors approved by the Appointor rather than representing the Appointor directly before the courts.
 
 15. Insurance
 
