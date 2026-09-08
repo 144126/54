@@ -44,10 +44,12 @@ COMMENT
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rental Advice, Assessment and Review
 - To advice on best market trends, rents and conditions concerning the property acknowledging that **final approval of all rental rates stays with the Appointor**.
-### B. — Monitoring
+### B. — Tenant Selection and Approval Monitoring
 -  To oversee the property and the tenant occupying same
 - To advise on tenancy matters
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
+
+### C. — Monitoring
 ### C. — Rent Payment 
 -  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
