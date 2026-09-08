@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,10 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e0b2ac1a3f73d6",
+  "active": "be5489fe9bb37071",
   "lastOpenFiles": [
-    "letting-agreement-review/04-proposed revisions.md",
     "letting-agreement-review/03-clause-review.md",
+    "letting-agreement-review/04-proposed revisions.md",
     "letting-agreement-review/02-general-comments.md",
     "letting-agreement-review/01-cover-letter.md",
     "letting-agreement-review/05-letting-and-management-agreement.md",

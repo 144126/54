@@ -218,30 +218,25 @@ The Appointor may, on reasonable notice, inspect and copy records on: maintenanc
 Appointee must follow all applicable laws and professional standards for estate surveyors and valuers, keep all registrations and licences current, and confirm it is duly authorised to practise estate management in Nigeria.
 Please include a clause requiring the Appointee to comply with all applicable laws, regulations and recognised professional standards governing estate management and landlord-tenant relationships in Nigeria.
 
-19. Dispute Resolution
+### A. New Clause — Dispute Resolution
 
-The Agreement should provide that disputes shall first be resolved through negotiation. Where unresolved, the parties shall proceed to mediation before either party resorts to litigation.l
+The Agreement should provide that disputes shall first be resolved through negotiation. Where unresolved, the parties shall proceed to mediation before either party resorts to litigation.
 
-20. Termination
+### A. New Clause — Termination
 
 I would prefer the notice period to be reduced from six (6) months to sixty (60) days.
 
 The Agreement should also provide for immediate termination in cases involving fraud, gross negligence, dishonesty, material breach or professional misconduct.
 
-21. Management Fees
+### A. New Clause — Management Fees
 
 The provisions relating to management fees appear inconsistent.
 
 Kindly clarify:
-
-Whether the management fee is 10% of annual rent collected.
-
-Whether the first year's rent is excluded.
-
-Whether the fee covers letting only, management only or both.
-
-Whether there are any additional professional charges payable.
-
+1. Whether the management fee is 10% of annual rent collected.
+2. Whether the first year's rent is excluded.
+3. Whether the fee covers letting only, management only or both.
+4. Whether there are any additional professional charges payable.
 It would be preferable for all fee-related provisions to be consolidated into one clear clause.
 
 22. Drafting Corrections
