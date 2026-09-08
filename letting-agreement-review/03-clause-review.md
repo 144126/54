@@ -187,27 +187,15 @@ Expressly cover: tenant personal data, bank details, financial information, ID c
 - Deposits collected from tenants; amount approved by the Appointor.
 - Unless agreed otherwise — Flats: **one month's rent**; Duplex: **two months' rent**.
 - Used only for: rent arrears; damage beyond fair wear and tear; missing items; cleaning; unpaid utilities.
-- Balance refunded after final inspection. Security Deposit
+- Balance refunded after final inspection. 
 
 The Agreement should clearly state:
-
 The amount of security deposit to be collected.
-
 Who shall hold the security deposit.
-
 Circumstances under which deductions may be made.
-
 Procedure for refund upon termination of tenancy.
 
-Security Deposit:
-
-  
-
-9. 
-
-10. Client Account
-
-Kindly confirm that all rent collected on behalf of landlords is maintained in a designated client account in accordance with professional estate management practice prior to remittance.
+Kindly confirm that all monies collected on behalf of landlords is maintained in a designated client account in accordance with professional estate management practice prior to remittance.
 
 
 
