@@ -160,7 +160,7 @@ Six months is too long — use **sixty (60) days' written notice** either way. A
 `ACCEPTED, SUBJECT TO CLARIFICATION`
 
 COMMENT
-Make it mutual and limited: each side bears losses from its own breach, negligence, fraud or wilful misconduct. Appointee's cover must name negligence, breach of fiduciary duty, unauthorised spend, misapplied funds, unremitted rent, unauthorised tenancies, wilful misconduct. Appointor's cover is only her own breach or false information — never the Appointee's negligence or unauthorised acts.
+Make it mutual and limited: each side bears losses from its own breach, negligence, fraud or wilful misconduct. Appointee's cover must name negligence, breach of fiduciary duty, unauthorised spending, misapplied funds, unremitted rent, unauthorised tenancies, wilful misconduct. Appointor's cover is only her own breach or false information — never the Appointee's negligence or unauthorised acts.
 
 ## Clause 10 — Confidentiality
 
