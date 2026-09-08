@@ -72,9 +72,9 @@ To maintain accurate records of:
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
-- T-  To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
+- To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
 ### G. — Emergency Repairs
-- Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
+- To undertake emergency repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report. 
 - Emergency Repairs
 
