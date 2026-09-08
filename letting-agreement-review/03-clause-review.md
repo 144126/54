@@ -40,7 +40,8 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rent Payment and Monitoring
--  To oversee the property and the tenant occupying same
+
+-  To advise on tenancy matters, help recover rent, coordinate enforcement, liaise with solicitors — but shall not suggest independent court representation unless legally entitled. Legal proceedings go through **solicitors approved by the Appointor**.To oversee the property and the tenant occupying same
 -  To advise on the best rent accruable on the market
 -  To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
@@ -57,7 +58,12 @@ The Appointee hereby covenant with the appointor as follow:
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval.**
-### C. — Legal Matters
+
+### C. — Emergency Repairs
+- Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
+- Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
+
+### D. — Legal Matters
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
 ### Clause 3(v) — Repairs and Maintenance 
@@ -75,13 +81,13 @@ The Appointee hereby covenant with the appointor as follow:
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
-Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
+
 
 ### Clause 3(vii) — 
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
-The Appointee may advise on tenancy matters, help recover rent, coordinate enforcement, liaise with solicitors — but shall not suggest independent court representation unless legally entitled. Legal proceedings go through **solicitors approved by the Appointor**.
+
 
 ### Clause 3(viii)
 
