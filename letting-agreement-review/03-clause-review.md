@@ -44,6 +44,7 @@ COMMENT
 The Appointee hereby covenant with the appointor as follow:
 ### A. — Rental Assessment and Review
 - To advice on best market trends, rents and conditions about the property acknowledging that **final approval of all rental rates stays with the Appointor**.
+- - To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same
 ### B. — Tenant Selection and Approval 
 - To advise on tenancy matters
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
@@ -66,14 +67,13 @@ To maintain accurate records of:
 - Tenancy agreements
 - Rent schedules
 - Correspondence on the Property
-- To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same
 - Other records relevant to the agreement.
 ### E. — Repairs and Maintenance
 - To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
-- To keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
+- T-  To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
 ### F. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
