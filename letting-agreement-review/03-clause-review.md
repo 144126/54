@@ -145,6 +145,34 @@ The Appointee  can only procure insurance with the prior approval of the Appoint
 COMMENT
 Position: **10% of rent actually collected and remitted**, covering ordinary management. 
 Any separate letting, legal, filing or professional charge must be stated and need prior approval. Delete "excluding the first year's rent" or explain it if a separate letting commission is meant.
+
+## Clause 8 — Termination
+
+`ACCEPTED, SUBJECT TO AMENDMENT`
+
+COMMENT
+Six months is too long — use **sixty (60) days' written notice** either way. Add **immediate termination** for: fraud; dishonesty; gross negligence; professional misconduct; material breach not fixed within fourteen (14) days; loss of licence or registration.
+
+**Handover** (keep): keys; tenancy agreements; inspection reports; rent records; deposit records; correspondence; any balance held.
+
+## Clause 9 — Indemnity
+
+`ACCEPTED, SUBJECT TO CLARIFICATION`
+
+COMMENT
+Make it mutual and limited: each side bears losses from its own breach, negligence, fraud or wilful misconduct. Appointee's cover must name negligence, breach of fiduciary duty, unauthorised spend, misapplied funds, unremitted rent, unauthorised tenancies, wilful misconduct. Appointor's cover is only her own breach or false information — never the Appointee's negligence or unauthorised acts.
+
+## Clause 10 — Confidentiality
+
+`ACCEPTED`
+
+COMMENT
+Expressly cover: tenant personal data, bank details, financial information, ID copies, lease papers. Survives termination.
+
+## Clause 11 — Force Majeure
+
+`ACCEPTED — NO AMENDMENT`
+
 ## D. New Clause — Security Deposits
 
 - Deposits collected from tenants; amount approved by the Appointor.
@@ -176,29 +204,7 @@ Kindly confirm that all rent collected on behalf of landlords is maintained in a
 
 > Proposed wording: "The Appointee shall be entitled to a Management Fee equal to ten percent (10%) of all rent actually collected and remitted on behalf of the Appointor. The Management Fee may be deducted before remittance of rent to the Appointor. No additional fee shall be charged except with the prior written approval of the Appointor."
 
-## Clause 8 — Termination
 
-`ACCEPTED, SUBJECT TO AMENDMENT`
-
-Six months is too long — use **sixty (60) days' written notice** either way. Add **immediate termination** for: fraud; dishonesty; gross negligence; professional misconduct; material breach not fixed within fourteen (14) days; loss of licence or registration.
-
-**Handover** (keep): keys; tenancy agreements; inspection reports; rent records; deposit records; correspondence; any balance held.
-
-## Clause 9 — Indemnity
-
-`ACCEPTED, SUBJECT TO CLARIFICATION`
-
-Make it mutual and limited: each side bears losses from its own breach, negligence, fraud or wilful misconduct. Appointee's cover must name negligence, breach of fiduciary duty, unauthorised spend, misapplied funds, unremitted rent, unauthorised tenancies, wilful misconduct. Appointor's cover is only her own breach or false information — never the Appointee's negligence or unauthorised acts.
-
-## Clause 10 — Confidentiality
-
-`ACCEPTED`
-
-Expressly cover: tenant personal data, bank details, financial information, ID copies, lease papers. Survives termination.
-
-## Clause 11 — Force Majeure
-
-`ACCEPTED — NO AMENDMENT`
 
 ## E. New Clause — Conflict of Interest
 
