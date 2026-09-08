@@ -6,7 +6,7 @@ Thank you for forwarding the draft Letting people and Management Agreement. I ap
 
 1. Property Description (schedule 1)
 
-
+The description of the property should be more comprehensive and specific. Kindly replace the current description with the full description of the property, including the plot number (where available), the number and type of buildings/units and any other identifying particulars to eliminate ambiguity.
 
 Property Description:
 
@@ -26,8 +26,43 @@ Approved Annual Rent:
 
 ₦ ___________________________________
 
+5. Tenant Screening
 
-9. Legal Proceedings
+Kindly expand the tenant screening obligations to include verification of:
+
+Employment and/or source of income.
+
+Valid means of identification.
+
+Guarantors where applicable.
+
+Previous landlord references where available.
+
+Any additional due diligence considered necessary by the Appointee.
+
+6. Repairs and Maintenance
+
+The Agreement should distinguish between routine and major repairs.
+
+
+
+7. 
+8. Security Deposit
+
+
+Security Deposit:
+
+  
+
+9. 
+
+10. Client Account
+
+Kindly confirm that all rent collected on behalf of landlords is maintained in a designated client account in accordance with professional estate management practice prior to remittance.
+
+
+
+14. Legal Proceedings
 
 Clause 3(vii) should be revised to clarify that the Appointee shall coordinate legal proceedings through solicitors approved by the Appointor rather than representing the Appointor directly before the courts.
 
@@ -57,3 +92,48 @@ The Agreement should grant the Appointor the right, upon reasonable notice, to i
 
 18. Compliance with Laws
 
+Please include a clause requiring the Appointee to comply with all applicable laws, regulations and recognised professional standards governing estate management and landlord-tenant relationships in Nigeria.
+
+19. Dispute Resolution
+
+The Agreement should provide that disputes shall first be resolved through negotiation. Where unresolved, the parties shall proceed to mediation before either party resorts to litigation.l
+
+20. Termination
+
+I would prefer the notice period to be reduced from six (6) months to sixty (60) days.
+
+The Agreement should also provide for immediate termination in cases involving fraud, gross negligence, dishonesty, material breach or professional misconduct.
+
+21. Management Fees
+
+The provisions relating to management fees appear inconsistent.
+
+Kindly clarify:
+
+Whether the management fee is 10% of annual rent collected.
+
+Whether the first year's rent is excluded.
+
+Whether the fee covers letting only, management only or both.
+
+Whether there are any additional professional charges payable.
+
+It would be preferable for all fee-related provisions to be consolidated into one clear clause.
+
+22. Drafting Corrections
+
+Kindly review the Agreement for typographical and grammatical consistency, including:
+
+"District" instead of "Ditrict".
+
+"Scrutiny" or "review" instead of "securitization."
+
+Consistent use of the feminine pronoun ("her") where referring to the Appointor.
+
+Consistent formatting, numbering and capitalization throughout the document.
+
+I believe the above revisions will further strengthen the Agreement, clearly define our respective responsibilities and reduce the likelihood of future misunderstandings.
+
+I look forward to receiving the revised draft for execution.
+
+Thank you.
