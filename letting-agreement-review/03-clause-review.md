@@ -60,7 +60,11 @@ The Appointee hereby covenant with the appointor as follow:
 - Tenant records
 - Tenancy agreements
 - Rent schedules
-- Maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
+- Maintenance records
+- Invoices and receipts
+- Inspection reports
+- Correspondence on the Property
+- Other records relevant to the agreeme.
 - 
 -
 - To promptly follow up on any arrears or default. 
