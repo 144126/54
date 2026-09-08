@@ -88,14 +88,13 @@ To maintain accurate records of:
 - To undertake emergency repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - To notify the Appointor at once or as soon as practicable, provide supporting photographs where appropriate, retain all receipts and submit a written report explaining the circumstances and work carried out.
 ### J. — Keys and Access Management
-- To maintain a key register
+- To maintain a key register (keys in/out, date, recipient, return date). 
 - To keep all spare keys securely and maintain proper records of keys issued and returned.
+- To keep originals and no copies except as reasonably needed for management, with a record of each copy.
 ### K. — Legal Matters
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
 - To institute / initiate legal procedure (notices) for vacant possession against rent defaulting tenants on securing the consent of the Appointor.
-
-
 ## Clause 4 — Obligations of the Appointor
 
 `GENERALLY ACCEPTED`
@@ -133,10 +132,6 @@ The Appointee's responsibility shall be:
 - To  Notify the Appointor promptly of any incident likely to give rise to an insurance claim.
 - To  Assist in processing insurance claims where required.
 The Appointee  can only procure insurance with the prior approval of the Appointor. Insurance decisions stay with the Appointor. 
-## B. New Clause  — Financial Management
-
-- Accurate accounts shall be kept of any funds belonging to the Appointor **separate** from the Appointee's operating funds.
-- Appointor may inspect records on reasonable notice; supporting papers shall be submitted on request.
 
 ## Clause 7 — Fees and Payments
 
@@ -208,11 +203,7 @@ Kindly confirm that all rent collected on behalf of landlords is maintained in a
 
 ## E. New Clause — Conflict of Interest
 
-> The Appointee shall not, without the prior written approval of the Appointor, let, license, allocate or otherwise grant any interest in the Property to itself, its directors, employees, agents, affiliates, or related parties.
-
-## F. New Clause — Key Management
-
-Key register (keys in/out, date, recipient, return date). Spares kept secure. No copies except as reasonably needed for management, with a record of each copy.
+The Appointee shall not, without the prior written approval of the Appointor, let, license, allocate or otherwise grant any interest in the Property to itself, its directors, employees, agents, affiliates, or related parties.
 
 ## G. New Clause — Right to Inspect Records
 
