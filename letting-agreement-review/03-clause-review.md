@@ -51,7 +51,7 @@ The Appointee hereby covenant with the appointor as follow:
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 ### C. — Monitoring
 - To oversee the property and the tenant occupying same
-### D. — Rent Payment 
+### D. — Rent Collection and Remittance
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
 - To help recover rent

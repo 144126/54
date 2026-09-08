@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letting-agreement-review/04-proposed revisions.md",
+                "file": "letting-agreement-review/03-clause-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-proposed revisions"
+              "title": "03-clause-review"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e0b2ac1a3f73d6",
+  "active": "aad19f137fe35158",
   "lastOpenFiles": [
     "letting-agreement-review/03-clause-review.md",
     "letting-agreement-review/04-proposed revisions.md",

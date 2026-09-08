@@ -63,17 +63,7 @@ Security Deposit:
 
   
 
-9. Rent Collection and Remittance
-
-The existing provision requiring remittance within forty-eight (48) hours is acceptable.
-
-In addition, every remittance should be accompanied by:
-
-Evidence of payment.
-
-A rent statement.
-
-Details of any deductions made.
+9. 
 
 10. Client Account
 
