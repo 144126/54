@@ -48,6 +48,7 @@ The Appointee hereby covenant with the appointor as follow:
 ### B. — Monitoring
 -  To oversee the property and the tenant occupying same
 - To advise on tenancy matters
+- To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
 ### C. — Rent Payment 
 -  To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
