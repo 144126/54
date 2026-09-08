@@ -59,13 +59,12 @@ The Appointee hereby covenant with the appointor as follow:
 - To promptly follow up on any arrears or default
 - To review the rent payable on the properties after due consultation with the Appointor 
 ### D. — Rent Payment  Records
--  To maintain accurate records of 
+To maintain accurate records of: 
 - Rent received and outstanding 
 - Tenant records
 - Tenancy agreements
 - Rent schedules
 - Maintenance records
-- Invoices and receipts
 - Inspection reports
 - Correspondence on the Property
 - To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same
@@ -75,6 +74,7 @@ The Appointee hereby covenant with the appointor as follow:
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
+- To keep adequate records of all receipts, invoices, disbursements and balances relating to the Property. 
 ### F. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
@@ -123,7 +123,7 @@ Insurance decisions stay with the Appointor. The Appointee shall: advise on cove
 
 ## C. New Clause — Client Account
 
-> The Appointee shall maintain proper accounting procedures for all monies received on behalf of the Appointor and shall keep adequate records of all receipts, disbursements and balances relating to the Property. The Appointor shall be entitled, upon reasonable notice, to inspect such records relating to her Property.
+> The Appointee shall maintain proper accounting procedures for all monies received on behalf of the Appointor he Appointor shall be entitled, upon reasonable notice, to inspect such records relating to her Property.
 
 ## D. New Clause — Security Deposits
 
