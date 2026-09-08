@@ -118,8 +118,11 @@ In addition to the quarterly report already provided for, each report should inc
 - Tenant issues.
 - Inspection findings.
 - Recommendations or improving the property's management.
--  **Annual reports** to add an overall performance summary.
+-  **Annual reports** to be added as overall performance summary.
+## B. New Clause  — Financial Management
 
+- Accurate accounts shall be kept of any funds belonging to the Appointor **separate** from the Appointee's operating funds.
+- Appointor may inspect records on reasonable notice; supporting papers shall be submitted on request.
 ## Clause 6 — Insurance
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
