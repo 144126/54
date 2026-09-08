@@ -117,9 +117,8 @@ rents collected; arrears; vacancies; maintenance done; spend; tenant issues; ins
 ## B. New Clause  — Financial Reporting
 
 In addition to the quarterly report already provided for, each report should include:
-
-Rent collected.
-
+- Rent collected.
+- 
 Outstanding rent arrears.
 
 Vacant units.
