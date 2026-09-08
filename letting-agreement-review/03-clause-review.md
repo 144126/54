@@ -116,16 +116,11 @@ Each **quarterly report**: rents collected; arrears; vacancies; maintenance done
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
 
-The Appointee's responsibility should be:
-
+The Appointee's responsibility shall be:
 - To advise the Appointor regarding appropriate insurance.
-
 - To obtain quotations where requested.
-
 - To  Assist in arranging insurance where instructed.
-
 - To  Notify the Appointor promptly of any incident likely to give rise to an insurance claim.
-
 - To  Assist in processing insurance claims where required.
 The Appointee  can only procure insurance with the prior approval of the Appointor. Insurance decisions stay with the Appointor. 
 ## B. New Clause  — Financial Management
