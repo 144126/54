@@ -136,7 +136,7 @@ The Appointee's responsibility shall be:
 - To  Assist in processing insurance claims where required.
 The Appointee  can only procure insurance with the prior approval of the Appointor. Insurance decisions stay with the Appointor. 
 
-## Clause 7 — Fees and Payments
+## Clause 7 — Management Fees and Payments
 
 `REQUIRES CLARIFICATION AND CONSOLIDATION`
 
@@ -223,17 +223,6 @@ Please include a clause requiring the Appointee to comply with all applicable la
 ### A. New Clause — Dispute Resolution
 
 The Agreement should provide that disputes shall first be resolved through negotiation. Where unresolved, the parties shall proceed to mediation before either party resorts to litigation.
-
-### A. New Clause — Management Fees
-
-The provisions relating to management fees appear inconsistent.
-
-Kindly clarify:
-1. Whether the management fee is 10% of annual rent collected.
-2. Whether the first year's rent is excluded.
-3. Whether the fee covers letting only, management only or both.
-4. Whether there are any additional professional charges payable.
-It would be preferable for all fee-related provisions to be consolidated into one clear clause.
 
 ### A. Drafting Corrections
 
