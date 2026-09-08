@@ -3,14 +3,13 @@
 Plot 51, Cadastral Zone, Phase 1, Site 1, P.W., Kubwa, Abuja-FCT
 **Document 1 of 3**
 
-5 September 2026
+September 8, 2026
 
 The Managing Partner g
 **Jide Taiwo & Co.**
 Estate Surveyors & Valuers
 
 Dear Sir,
-
 ## RE: REVIEW COMMENTS ON THE DRAFT LETTING AND PROPERTY MANAGEMENT AGREEMENT — PROPERTY AT KUBWA, ABUJA
 
 Thank you for forwarding the Draft Letting and Property Management Agreement between **Mrs. Edem Hogan** ("the Appointor") and **Jide Taiwo & Co.** ("the Appointee") for my review.
@@ -26,8 +25,9 @@ They are intended to strengthen the Agreement and remove ambiguity for avoidance
 - **Document 2** — General Comments and Preliminary Matters (insurance, licensing, structure, property description, scope, reserved area, definitions).
  - **Document 3** — Clause-by-Clause Review and Proposed Amendments (Clauses 1–11) with proposed new clauses and replacement wording.
  
- - I look forward to receiving a revised draft reflecting these points, after which I shall be pleased to proceed to execution.
-We are  most grateful for the good=will assistance and guidance extended in handling prospective tenants these last couple of days. Accept our  .
+ I look forward to receiving a revised draft reflecting these points, after which I shall be pleased to proceed to execution.
+ 
+We are  most grateful for the good will assistance and guidance extended in handling prospective tenants these last couple of days. Kindly accept, the assurances of our highest esteem.
 
 Yours faithfully,
 
