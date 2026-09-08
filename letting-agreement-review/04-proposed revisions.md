@@ -69,35 +69,7 @@ Security Deposit:
 
 Kindly confirm that all rent collected on behalf of landlords is maintained in a designated client account in accordance with professional estate management practice prior to remittance.
 
-11. Financial Reporting
 
-In addition to the quarterly report already provided for, each report should include:
-
-Rent collected.
-
-Outstanding rent arrears.
-
-Vacant units.
-
-Maintenance carried out.
-
-Expenditure incurred.
-
-Recommendations for improving the property's management.
-
-12. Property Inspections
-
-Routine inspections should be conducted:
-
-Every six (6) months for occupied premises.
-
-Monthly for vacant premises until re-let.
-
-Each inspection should be accompanied by a written report and photographs where appropriate.
-
-13. Key Management
-
-Kindly include a provision requiring the Appointee to maintain a key register, keep all spare keys securely and maintain proper records of keys issued and returned.
 
 14. Legal Proceedings
 

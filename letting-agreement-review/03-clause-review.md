@@ -73,6 +73,36 @@ To maintain accurate records of:
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
 - To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
+
+11. Financial Reporting
+
+In addition to the quarterly report already provided for, each report should include:
+
+Rent collected.
+
+Outstanding rent arrears.
+
+Vacant units.
+
+Maintenance carried out.
+
+Expenditure incurred.
+
+Recommendations for improving the property's management.
+
+12. Property Inspections
+
+Routine inspections should be conducted:
+
+Every six (6) months for occupied premises.
+
+Monthly for vacant premises until re-let.
+
+Each inspection should be accompanied by a written report and photographs where appropriate.
+
+13. Key Management
+
+Kindly include a provision requiring the Appointee to maintain a key register, keep all spare keys securely and maintain proper records of keys issued and returned.
 ### G. — Emergency Repairs
 - To undertake emergency repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - To notify the Appointor at once or as soon as practicable, provide supporting photographs where appropriate, retain all receipts and submit a written report explaining the circumstances and work carried out.
