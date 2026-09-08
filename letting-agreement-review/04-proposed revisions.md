@@ -46,10 +46,7 @@ The Agreement should distinguish between routine and major repairs.
 
 
 
-7. Emergency Repairs
-
-Where emergency repairs are undertaken, the Appointee shall notify the Appointor as soon as reasonably practicable, provide supporting photographs where appropriate, retain all receipts and submit a written report explaining the circumstances and work carried out.
-
+7. 
 8. Security Deposit
 
 The Agreement should clearly state:

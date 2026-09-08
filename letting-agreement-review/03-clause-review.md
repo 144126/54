@@ -75,7 +75,11 @@ To maintain accurate records of:
 - T-  To monitor and keep record of all property inspection visits by prospective tenantso keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
 ### G. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
-- Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
+- Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report. 
+- Emergency Repairs
+
+Where emergency repairs are undertaken, the Appointee shall notify the Appointor as soon as reasonably practicable, provide supporting photographs where appropriate, retain all receipts and submit a written report explaining the circumstances and work carried out.
+
 ### H. — Legal Matters
 - To liaise with solicitors 
 - To represent the landlord in court on litigation relating to the property either for recovery of premises or others that may be so determined by the Appointor.
