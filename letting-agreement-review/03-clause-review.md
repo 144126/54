@@ -48,7 +48,7 @@ The Appointee hereby covenant with the appointor as follow:
 - To promptly follow up on any arrears or default. 
 
 ### B. — Repairs and Maintenance
-- To undertake Distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
+- To distinguish **Routine Repairs**, **Major Repairs**, **Emergency Repairs**.
 - To routine Repairs up to **₦100,000** without prior approval.
 - To above ₦100,000 needs **prior written approval**, except emergencies.
 ### Clause 3(v) — Repairs and Maintenance
