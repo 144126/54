@@ -35,7 +35,7 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 ## Clause 3 — Obligations of the Appointee
 
 `ACCEPTED, SUBJECT TO AMENDMENT`
-### A— Rent Payment and Monitoring
+### A. — Rent Payment and Monitoring
 -  Oversee the property and the tenant occupying same
 - - Advise on the best rent accruable on the market
 - - Lease the property to an approved prospective tenant at the agreed rent terms by the Appointor
@@ -45,8 +45,7 @@ Kindly add: renewal only by **mutual written agreement**; performance review bef
 - Maintain accurate records of rent received and outstanding 
 - Promptly follow up on any arrears or default. 
 
-- To 
-### Clause 3(v) — Repairs and Maintenance
+### B. — Repairs and Maintenance
 ### Clause 3(v) — Repairs and Maintenance
 ### Clause 3(v) — Repairs and Maintenance 
 ### Clause 3(v) — Repairs and Maintenance
