@@ -47,9 +47,10 @@ The Appointee hereby covenant with the appointor as follow:
 ### B. — Tenant Selection and Approval 
 - To advise on tenancy matters
 - To secure and screen new tenants for any vacant apartment after due consultation with the Appointor.
+-  To monitor and keep record of all property inspection visits by prospective tenants
 - To lease the property to an approved prospective tenant at the agreed rent terms by the      Appointor
 ### C. — Monitoring
--  To oversee the property and the tenant occupying same
+- To oversee the property and the tenant occupying same
 ### C. — Rent Payment 
 - To ensure all rent and other tenancy payments shall be paid directly by tenants into the bank account designated by the Appointor. 
 - To provide or communicate the approved payment details to tenants 
@@ -64,8 +65,6 @@ To maintain accurate records of:
 - Tenant records
 - Tenancy agreements
 - Rent schedules
-- Maintenance records
-- Inspection reports
 - Correspondence on the Property
 - To submit every new tenancy agreement to the Appointor for his securitization before adopting and getting the tenant to endorse same
 - Other records relevant to the agreement.
@@ -74,7 +73,7 @@ To maintain accurate records of:
 - To carry out instruction of the Appointor as regard repairs 
 - To represent / supervise and organize repairs that may be so determined by the Appointor.
 - To undertake repairs up to **₦100,000** only without **prior written approval except in cases of genuine emergency where immediate action is necessary to prevent injury, further damage or loss.
-- To keep adequate records of all receipts, invoices, disbursements and balances relating to the Property. 
+- To keep adequate records of all - inspection reports, maintenance work, receipts, invoices, disbursements and balances relating to the Property. 
 ### F. — Emergency Repairs
 - Authorise Emergency Repairs to prevent injury, protect life, prevent substantial damage, or secure the Property after burglary, fire, flooding or similar. 
 - Where done: notify the Appointor at once or as soon as practicable; photos where available; keep receipts; submit a written report.
