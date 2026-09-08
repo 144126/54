@@ -57,7 +57,10 @@ The Appointee hereby covenant with the appointor as follow:
 ### D. — Rent Payment  Records
 -  To maintain accurate records of 
 - Rent received and outstanding 
-- Records: tenant records, tenancy agreements, rent schedules, maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
+- Tenant records
+- Tenancy agreements
+- Rent schedules
+- Maintenance records, invoices and receipts, inspection reports, correspondence on the Property.
 - 
 -
 - To promptly follow up on any arrears or default. 
