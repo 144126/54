@@ -27,7 +27,7 @@ They are intended to strengthen the Agreement and remove ambiguity for avoidance
  - **Document 3** — Clause-by-Clause Review and Proposed Amendments (Clauses 1–11) with proposed new clauses and replacement wording.
  
  - I look forward to receiving a revised draft reflecting these points, after which I shall be pleased to proceed to execution.
-We are   most grateful for the good=will assistance and guidance extended in handling prospective tenants these last couple of days. Thank you so much.
+We are  most grateful for the good=will assistance and guidance extended in handling prospective tenants these last couple of days. Accept our  .
 
 Yours faithfully,
 
