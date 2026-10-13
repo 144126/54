@@ -1,70 +1,43 @@
-comfort and satisfaction
-do what you want
-there's no gain in effort
+# Projects
+- [[runs]]
+- [[ve]]
+- [[red]]
+- [[work/e4|e4]]
+- [[pilotspan]]
+- Meeting Transcription App: Create app, allow jev questions (Ref: https://x.com/SamuelZengML/status/2102726739449332221?s=20)
+- Highlighter Extension: Map highlights to URLs, check for file modifications
+- Mr. Fred edits
+- Muscriptor: Add to edi
+- Void Edit
+- Trumpet Audio: Shazam and download trumpet sound audio
+- CAC Registration: Free registration - smerdan
 
-create ligthning.ai skill
-use skill to make edi use lightning.ai
+# AI & Agents
+- In-browser UI agent [[inbrowser UI agent]]
+- Backend agent (Rust)
+- General Agent tasks
+- A/V Calls: Lowest latency/highest quality
+- AI voice/visual teacher
 
-shazam and download trumpet sound audio
-add muscriptor to edi
-make void edit
+# Design Studio (54)
+- Website: Create SvelteKit website for 54 design studio (extremely premium)
+- Design-Sense: AI research via Tympanus Creative Hub
+- UI Ideas: https://tympanus.net/Tutorials/CurveGallery/
+- Research: Premium web design skills, inspiration sites and books
 
+# Research & Concepts
+- Ecosystem: [[mesh]], hgc, [[ev]], [[x2]]
+- [[beee]] (Setup Firecrawl)
+- Hai: Plan deeply, tools (browse, query Cloudflare)
+- Plan prompt: Use TDD, deep dive into features
 
-[[mesh]]
-hgc
-[[ev]]
-[[x2]]
-[[ve]] 
+# Notes & Mindset
+- Comfort and satisfaction
+- Do what you want
+- There's no gain in effort
+- NNPC Ltd notes: quasi-commercial entity, NMDPRA, licensing, CAMA
 
-agent
-
-free cac registration - smerdan
-
-lowest latency/highest quality A/V calls
-	compression?
-	
-ai voice/visual teacher
-300 grok
-100 chatgpt
-200 opus
-
-[[beee]]
-setup firecrawl
-
-plan prompt
-	think deeply about every single feature and implementation this should have, every single detail it should have, use tdd,  let the tests and plan perfectly cover exact details of exactly how it would be achieved technically 
-
-beee
-	input focus ring orange
-	
-
-hai
-	plan deeply
-	tools
-		browse
-		query cloudflare
-
-54
-	website
-		prompt
-			create a sveltekit website for 54. a design studio that creates websites, logos, flyers and stuff like that. make it xtremely premium
-
-prompt
-	think deeply about every single feature this should have, every single detail it should have professional software development practicess, use tdd, 
-
-design-sense
-	ai visits each entry in tympanus creative hub, records, views recording, imagines scenarios where it would be useful, embeds video/effect description and scenarios
-	when designing
-
-search net for how premium web design skill can be improved
-graph todo
-what sites to get ideas for premium web design
-	the one mentioned in claude's pwd chat
-what books to get ideas for premium web design
-
-ev - redo
-		
-ver - research
-
-ui ideas
-	https://tympanus.net/Tutorials/CurveGallery/
+# Subscriptions / Costs
+- Grok: 300
+- ChatGPT: 100
+- Opus: 200
