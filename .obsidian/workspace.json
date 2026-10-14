@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sonnet vs opus.md",
+                "file": "work/runs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sonnet vs opus"
+              "title": "runs"
             }
           }
         ],
@@ -260,11 +260,12 @@
   },
   "active": "959117583c93bf26",
   "lastOpenFiles": [
+    "todo.md",
+    "Untitled.md",
     "sonnet vs opus.md",
     "tod.md",
     "claude max.md",
     "edit.md",
-    "Untitled.md",
     "dd.md",
     "how to be an AI entrepreneur.md",
     "sevenup.md",
@@ -282,7 +283,6 @@
     "edmund/Report - Taskify.docx.md",
     "edmund/Report - Taskify.pdf",
     "edmund/Report - Taskify.docx",
-    "todo.md",
     "mind/i.md",
     "e4.md",
     "claude.md",
