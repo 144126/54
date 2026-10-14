@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "work/e4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "e4"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e49504ecc988d26",
+  "active": "f8affe56e2ead078",
   "lastOpenFiles": [
-    "work/red.md",
+    "work/e4.md",
     "todo.md",
+    "work/red.md",
     "work/ve.md",
     "work/runs.md",
     "tod.md",
@@ -263,7 +264,6 @@
     "claude.md",
     "work/pilotspan.md",
     "558.md",
-    "work/ice cream report.md",
     "work/ice cream report.md.tmp.4839.7a8d910b0ca1",
     "mind/i.md.tmp.4839.ce4ef4273de7",
     "canvas/todo.canvas",
