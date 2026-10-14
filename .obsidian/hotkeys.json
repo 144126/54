@@ -130,5 +130,23 @@
     }
   ],
   "cvk:focus-prev": [],
-  "cvk:focus-next": []
+  "cvk:focus-next": [],
+  "app:reload": [],
+  "voice:raw": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ],
+  "voice:refine": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "markdown:toggle-preview": []
 }

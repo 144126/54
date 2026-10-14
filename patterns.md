@@ -1,0 +1,1 @@
+i don't give something to someone, someone asks, and i don't feel like giving

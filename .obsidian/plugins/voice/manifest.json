@@ -1,0 +1,10 @@
+{
+	"id": "voice",
+	"name": "Voice",
+	"version": "0.0.1",
+	"minAppVersion": "1.12.0",
+	"description": "Ctrl+E records and adds the raw words. Ctrl+R records and adds notes cleaned up by Grok 4.6 on Bedrock Mantle.",
+	"author": "ed",
+	"authorUrl": "https://ed.apexlinks.org",
+	"isDesktopOnly": true
+}

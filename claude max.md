@@ -1,0 +1,5 @@
+-
+- 
+- create plan for animators-hive-hub project report
+	- ai guides me step by step, with one line questions, i use voice to answer, ai fills it in markdown. the ai covers every single tiny detail of the report, so it might ask me many 1 line questions, which is fine
+- something sucks

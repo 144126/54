@@ -1,0 +1,1 @@
+search if agent-browser can be run in browser

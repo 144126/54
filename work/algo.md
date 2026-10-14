@@ -1,0 +1,3 @@
+what?
+trendlines
+resistance/support

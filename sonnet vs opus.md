@@ -1,0 +1,5 @@
+writing
+intelligence
+street smarts
+wisdom
+discernment
