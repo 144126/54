@@ -7,6 +7,17 @@
 
 - extremely and brutally analyze and critique the condense skill
 
+- Engineer something from Tim Fanners, Coodlops. Is that for 54 website?
+- For months this has been the last point.
+- Finish converting Pilotspan to Vanilla.
+- Get voice working on Vanilla.
+- Research for the smallest voice model.
+- Get speech-to-text working in Pilotspan Vanilla.
+- Get documents working in Pilotspan. That was confirmed from Godsoon that the same form actually sends.
+- Finish Algolia, replacing Algolia search with a robust database. Finish doing research on that.
+- Make people request that implements it until God's done about the core request until Mr. about it through the quest.
+- Make the Pilotspan occasional intelligence illustrations a little colorful and a little more visible, brutally critiqued with Sonnet, Sonnet high.
+- Vielen Dank.
 
 
 
