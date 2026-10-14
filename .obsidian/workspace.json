@@ -8,76 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb09d1d8e5089e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how to be an AI entrepreneur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how to be an AI entrepreneur"
-            }
-          },
-          {
-            "id": "ded48ff990002df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dd"
-            }
-          },
-          {
-            "id": "da1011e8aa99f6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "edit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "edit"
-            }
-          },
-          {
-            "id": "8a83da177ec30e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "claude max.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude max"
-            }
-          },
-          {
-            "id": "7f2fd478381f6398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tod"
-            }
-          },
-          {
             "id": "959117583c93bf26",
             "type": "leaf",
             "state": {
@@ -90,9 +20,51 @@
               "icon": "lucide-file",
               "title": "runs"
             }
+          },
+          {
+            "id": "f8affe56e2ead078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/ve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ve"
+            }
+          },
+          {
+            "id": "0e49504ecc988d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "b020d5b93e240a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "red"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,15 +230,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "959117583c93bf26",
+  "active": "b020d5b93e240a05",
   "lastOpenFiles": [
     "todo.md",
-    "Untitled.md",
-    "sonnet vs opus.md",
+    "work/ve.md",
+    "work/runs.md",
     "tod.md",
     "claude max.md",
     "edit.md",
     "dd.md",
+    "Untitled.md",
+    "sonnet vs opus.md",
     "how to be an AI entrepreneur.md",
     "sevenup.md",
     "sh.md",
@@ -290,10 +264,8 @@
     "558.md",
     "work/ice cream report.md",
     "work/Pearl.md",
-    "new.md",
     "work/ice cream report.md.tmp.4839.7a8d910b0ca1",
     "mind/i.md.tmp.4839.ce4ef4273de7",
-    "i - toris.md",
     "canvas/todo.canvas",
     "canvas/know.canvas",
     "canvas/i.canvas",
