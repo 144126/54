@@ -11,6 +11,7 @@ const WAV = path.join(os.tmpdir(), "obsidian-voice.wav");
 const TIMEOUT_MS = 1_620_000;
 const STOP_GRACE_MS = Number(process.env.PI_VOICE_STOP_GRACE_MS) || 3000;
 const PI_MODELS = path.join(os.homedir(), ".pi/agent/models.json");
+const STT_TOKEN_FILE = path.join(os.homedir(), ".config/jot-stt.token");
 const MODEL = "xai.grok-4.6";
 const CONTEXT_CHARS = 3000;
 
@@ -33,7 +34,10 @@ function post_wav(buf) {
 				port: PORT,
 				path: "/",
 				method: "POST",
-				headers: { "Content-Length": buf.length },
+				headers: {
+					"Content-Length": buf.length,
+					Authorization: "Bearer " + fs.readFileSync(STT_TOKEN_FILE, "utf8").trim(),
+				},
 				timeout: TIMEOUT_MS,
 			},
 			(res) => {
