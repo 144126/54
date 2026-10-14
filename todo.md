@@ -4,6 +4,9 @@
 - [[red]]
 - [[work/e4|e4]]
 - [[pilotspan]]
+
+- extremely and brutally analyze and critique the condense skill
+
 - Meeting Transcription App: Create app, allow jev questions (Ref: https://x.com/SamuelZengML/status/2102726739449332221?s=20)
 - Highlighter Extension: Map highlights to URLs, check for file modifications
 - Mr. Fred edits

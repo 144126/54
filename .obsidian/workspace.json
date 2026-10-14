@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,8 +230,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b020d5b93e240a05",
+  "active": "0e49504ecc988d26",
   "lastOpenFiles": [
+    "work/red.md",
     "todo.md",
     "work/ve.md",
     "work/runs.md",
@@ -263,7 +264,6 @@
     "work/pilotspan.md",
     "558.md",
     "work/ice cream report.md",
-    "work/Pearl.md",
     "work/ice cream report.md.tmp.4839.7a8d910b0ca1",
     "mind/i.md.tmp.4839.ce4ef4273de7",
     "canvas/todo.canvas",
