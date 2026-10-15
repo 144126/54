@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/pilotspan.md",
+                "file": "reports/animators-hive-hub-project-report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pilotspan"
+              "title": "animators-hive-hub-project-report"
             }
           }
         ],
@@ -246,6 +246,8 @@
   },
   "active": "ef38c3dbd88dcbae",
   "lastOpenFiles": [
+    "reports/animators-hive-hub-flaws.md",
+    "reports/animators-hive-hub-project-report.md",
     "todo.md",
     "work/red.md",
     "work/ve.md",
@@ -276,8 +278,6 @@
     "mind/i.md",
     "e4.md",
     "claude.md",
-    "work/pilotspan.md",
-    "558.md",
     "work/ice cream report.md.tmp.4839.7a8d910b0ca1",
     "mind/i.md.tmp.4839.ce4ef4273de7",
     "canvas/todo.canvas",
