@@ -11,10 +11,14 @@
             "id": "671900bcac0cadf8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "frame2/report.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "report"
             }
           }
         ]
@@ -184,6 +188,10 @@
   },
   "active": "671900bcac0cadf8",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "frame2/report.md",
+    "Untitled 2.md",
+    "frame2",
     "todo.md",
     "work/e4.md",
     "work/red.md",
