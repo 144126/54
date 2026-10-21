@@ -7,6 +7,7 @@ c - https://x.com/benyuls/status/2112539062347174312 we have skills like this. c
 c - condense https://x.com/deanwperkins/status/2112537925187461302?s=20
 c -  omax - https://x.com/EaStEnRaY1/status/2112570051022958957 create plan to do this in the most perfect and most profitable way possible
 c - https://x.com/_jxom/status/2112320010081501186 use this for all charts and stuff, add to agents.md
+c - https://x.com/daniel_mac8/status/2112655751923618189 do this
 
 # Projects
 - [[runna]]
