@@ -8,6 +8,7 @@ c - condense https://x.com/deanwperkins/status/2112537925187461302?s=20
 c -  omax - https://x.com/EaStEnRaY1/status/2112570051022958957 create plan to do this in the most perfect and most profitable way possible
 c - https://x.com/_jxom/status/2112320010081501186 use this for all charts and stuff, add to agents.md
 c - https://x.com/daniel_mac8/status/2112655751923618189 do this
+c - condense https://x.com/hoshinoxbt/status/2112556978518069272?s=20
 
 # Projects
 - [[runna]]
