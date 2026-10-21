@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frame2/report.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "report"
+              "title": "todo"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "671900bcac0cadf8",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "frame2/report.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
     "Untitled 2.md",
     "frame2",
     "todo.md",
