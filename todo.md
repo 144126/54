@@ -1,4 +1,5 @@
 update tasteskill to v2.1
+create a chatgpt app
 try out https://x.com/emmanuel_2m/status/2112673359775310084 blender plugin
 
 # Projects
