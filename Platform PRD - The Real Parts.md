@@ -101,7 +101,7 @@ Overview. Vision. User table. Principles. Component list. Examples. Platform tab
 11. **Launch needs a pilot. No phase has one.** Three agencies is too few.
 12. **A sentence in 6.2 breaks mid-line.**
 13. **"Version Control" has no version.**
-14. **The test docs cite a "POI" this PRD never mentions.**
+14. **This PRD never mentions POI.** POI is a separate spec.
 
 ## Bottom line
 

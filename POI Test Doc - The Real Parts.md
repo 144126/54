@@ -115,7 +115,9 @@ Pasted case text (36%). Scenario lists. 40 "Not Run" rows. The requirements tabl
 13. **Fake integrations vs "Blocked" is unclear.**
 14. **"Excluding a feature" works like a waiver.**
 15. **The pass-mark header says "Source Target".**
-16. **Cases cite "POI §x".** That spec is not in the PDF.
+16. **Two IDs per test.** `POI-010` and `POI-PACK-01` name the same check.
+
+Checked against the spec: the "POI §x" cites match. Flaws 9 and 10 come from real clashes in the spec. See "POI Spec - The Real Parts".
 
 ## Bottom line
 
