@@ -16,6 +16,6 @@ So agencies have their individual policies. Do we have something that do we alre
 
 todo
 1. thumbs up/down button on responses
-allow agencies add their own policies easily, using AI
+2. allow agencies add their own policies easily, using AI
 dashboard to track docs
 
