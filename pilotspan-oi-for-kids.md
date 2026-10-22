@@ -217,25 +217,25 @@ Here is a real example card, in plain words:
 
 ### Must-have info on every card
 
-| Info | Rule |
-|---|---|
-| Source ID | Required. Unique. Never changes. |
-| How high on the trust ladder | Required |
-| Publisher and official domain (website address) | Required |
-| Where it applies (country-level) | Required |
-| State or territory | Required when it applies |
-| Agency type | Required |
-| Kind of care (service line) | Required when it applies |
-| Payer or managed care plan | Required when it applies |
-| Start date | Required, or clearly marked "unknown" |
-| Date we got it | Required |
-| Date it must be rechecked | Required |
-| Who approves it | Required |
-| Approval status | Required |
-| Version or fingerprint | Required |
-| Exact spot to cite | Required |
-| What it replaced | Required when there is a replacement |
-| Who is allowed to see it | Required |
+| Info                                            | Rule                                  |
+| ----------------------------------------------- | ------------------------------------- |
+| Source ID                                       | Required. Unique. Never changes.      |
+| How high on the trust ladder                    | Required                              |
+| Publisher and official domain (website address) | Required                              |
+| Where it applies (country-level)                | Required                              |
+| State or territory                              | Required when it applies              |
+| Agency type                                     | Required                              |
+| Kind of care (service line)                     | Required when it applies              |
+| Payer or managed care plan                      | Required when it applies              |
+| Start date                                      | Required, or clearly marked "unknown" |
+| Date we got it                                  | Required                              |
+| Date it must be rechecked                       | Required                              |
+| Who approves it                                 | Required                              |
+| Approval status                                 | Required                              |
+| Version or fingerprint                          | Required                              |
+| Exact spot to cite                              | Required                              |
+| What it replaced                                | Required when there is a replacement  |
+| Who is allowed to see it                        | Required                              |
 
 ---
 
