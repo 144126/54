@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fe46eaf11e0c7bd2",
@@ -189,6 +188,8 @@
   },
   "active": "671900bcac0cadf8",
   "lastOpenFiles": [
+    "audio/POI Test Doc - The Real Parts.mp3",
+    "audio",
     "pilotspan-oi-for-kids.md",
     "POI Test Doc - The Real Parts.md.tmp.55957.82a64eb602dc",
     "POI Test Doc - The Real Parts.md",
