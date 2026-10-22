@@ -8,9 +8,18 @@ Source: `Pilotspan AI Platform PRD (2).pdf`. 4,608 words.
 
 An AI helper in every Pilotspan screen. It finds screens. It answers policy questions with sources. It ranks work. It drafts notes, messages, and bills. A human approves risky acts.
 
-## How
+## How it's built
 
-The AI reads the request. Normal services check rules and do the work. Search first. Then answer.
+One idea. The AI understands the request. Normal Pilotspan services check the rules and do the work.
+
+- The AI never answers policy from memory.
+- Search first. Filter by document details. Then answer.
+- Every tool call checks permission. Every tool call is safe to repeat.
+- One workflow list maps each request to a screen, an API, and the roles allowed.
+- Answers use fixed shapes: navigation, policy, action plan, draft, risk alert.
+- Switches turn features on per customer, module, role, state, and payer.
+- Every AI feature has a manual fallback and a circuit breaker.
+- Keep a backup model provider. Degrade safely.
 
 ## The 5 tiers
 
