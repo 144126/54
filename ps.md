@@ -10,3 +10,6 @@ translate different languages
 `Users reach the Pilotspan screen we suggested` no, the endgoal is a complete operating system
 
 embedded UI in the chatbot when necessary
+
+So agencies have their individual policies. Do we have something that do we already have a feature for that in the web app like where agencies can add their own policies?
+
