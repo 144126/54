@@ -296,20 +296,20 @@ A **state pack** is a locked toolbox for one jurisdiction (one state or D.C.). I
 
 ### 8.2 What Every State Pack Needs
 
-| Section | What goes in it |
-|---|---|
-| Licensing | Agency type, state license, renewals, owner and branch rules, administrator rules |
-| Provider enrollment | Medicaid sign-up, NPI and provider IDs, which payers and managed care plans the agency joins |
-| EVV | Which services need it, the state's model, the **aggregator**, other EVV options, exceptions, how to send it in |
-| Documentation | What the state adds to the federal paperwork and supervision rules |
-| Billing | Medicaid manuals, payer IDs, permission slips (authorizations), deadlines to bill, claims and rate rules |
-| MCOs (managed care plans) | Official manuals, bulletins, authorizations, portals, contacts |
-| Workforce | Worker licenses, registries, exclusion checks, background checks, and who is allowed to work |
-| Payroll | State and local rules on wages, overtime, travel, paid time off, and taxes, when this is turned on |
-| Quality and inspection | State inspection, incident, QAPI, infection, and emergency-readiness rules |
-| Forms | Official state forms, their versions, deadlines, and the matching Pilotspan template |
-| Change watching | Official news feeds, reviewers, time limits, and start dates |
-| Product settings | Needed switches, rules, templates, connections, and test scenarios |
+| Section                   | What goes in it                                                                                                 |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Licensing                 | Agency type, state license, renewals, owner and branch rules, administrator rules                               |
+| Provider enrollment       | Medicaid sign-up, NPI and provider IDs, which payers and managed care plans the agency joins                    |
+| EVV                       | Which services need it, the state's model, the **aggregator**, other EVV options, exceptions, how to send it in |
+| Documentation             | What the state adds to the federal paperwork and supervision rules                                              |
+| Billing                   | Medicaid manuals, payer IDs, permission slips (authorizations), deadlines to bill, claims and rate rules        |
+| MCOs (managed care plans) | Official manuals, bulletins, authorizations, portals, contacts                                                  |
+| Workforce                 | Worker licenses, registries, exclusion checks, background checks, and who is allowed to work                    |
+| Payroll                   | State and local rules on wages, overtime, travel, paid time off, and taxes, when this is turned on              |
+| Quality and inspection    | State inspection, incident, QAPI, infection, and emergency-readiness rules                                      |
+| Forms                     | Official state forms, their versions, deadlines, and the matching Pilotspan template                            |
+| Change watching           | Official news feeds, reviewers, time limits, and start dates                                                    |
+| Product settings          | Needed switches, rules, templates, connections, and test scenarios                                              |
 
 ### 8.3 The State Gate (when a state becomes "Pilotspan AI Approved")
 
