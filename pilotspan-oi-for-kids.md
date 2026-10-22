@@ -617,13 +617,13 @@ Every approved change **must** make a card:
 
 ## 19. The Plan and Timeline (Implementation Roadmap)
 
-| Phase | When | What gets built | Door to the next phase |
-|---|---|---|---|
-| **0. Foundation** | Weeks 0–2 | Source registry, label model, approval flow, policy versions, citation service, governance council | Architecture, security, and compliance approve |
-| **1. Federal + Texas** | Weeks 2–4 | Federal library, Texas pack, agency policy library, cited AI answers, testing tools | Texas pilot user testing (UAT) and citation tests pass |
-| **2. Priority States** | Weeks 4–6 | Packs for Florida, California, New York, North Carolina, Illinois, Pennsylvania, Ohio, Georgia, Virginia, and Arizona | State gates all finished |
-| **3. National Coverage** | Weeks 6–8 | The rest of the state packs, payer and managed care module, change monitoring dashboard, set-up playbooks | Quality and freshness goals met |
-| **4. Consultant Intelligence** | Never-ending | Change-impact checks, audit proof packets, compliance work queues, executive rule briefings | Measured customer adoption, and less need for support |
+| Phase                          | When         | What gets built                                                                                                       | Door to the next phase                                 |
+| ------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| **0. Foundation**              | Weeks 0–2    | Source registry, label model, approval flow, policy versions, citation service, governance council                    | Architecture, security, and compliance approve         |
+| **1. Federal + Texas**         | Weeks 2–4    | Federal library, Texas pack, agency policy library, cited AI answers, testing tools                                   | Texas pilot user testing (UAT) and citation tests pass |
+| **2. Priority States**         | Weeks 4–6    | Packs for Florida, California, New York, North Carolina, Illinois, Pennsylvania, Ohio, Georgia, Virginia, and Arizona | State gates all finished                               |
+| **3. National Coverage**       | Weeks 6–8    | The rest of the state packs, payer and managed care module, change monitoring dashboard, set-up playbooks             | Quality and freshness goals met                        |
+| **4. Consultant Intelligence** | Never-ending | Change-impact checks, audit proof packets, compliance work queues, executive rule briefings                           | Measured customer adoption, and less need for support  |
 
 ---
 
