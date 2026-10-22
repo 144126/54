@@ -157,14 +157,14 @@ Drop these two from "before launch". They can only be measured after launch: nav
 | 4.3 roles table, 7.1 environments, 4.2 test levels | Normal project facts. |
 | "Not evidence of zero defects" and "a plan is not proof" | Said about 8 times. Once is plenty. |
 | "No open Critical or High" | Written 5 times. |
-| Section 10 fixture list (26 families) | 11 are never used. See flaw 1. Cases also use `DATA-ANS`, which the list never defines. |
+| Section 10 fixture list (26 families) | 11 belong to the sibling doc and are unused here. See flaw 1. Cases also use `DATA-ANS`, which the list never defines. |
 | Section 18 conclusion | Repeats the intro. |
 
 ## Flaws, contradictions, things that don't make sense
 
-1. **Big hole: promised but never tested.** The doc names 11 data sets (navigation, workflow, clinical notes, billing, compliance, communications, executive, governance, UX, cross-platform, packaging). Zero of the 40 cases use them. It also promises tests for clinical notes, billing, payroll, voice, languages, accessibility, mobile and offline, fairness, incident response, and cost limits. None exist. The doc defines top priority as "clinical safety, financial controls". Neither is tested.
-2. **The approved-action path is never tested.** The doc lists "approval binding" and "replay" in its checks and its release checklist. No case tests that a human-approved action works. Case 030 only tests the unapproved ones.
-3. **The requirements matrix is circular.** It says "AI PRD requirement IDs are preserved exactly." There are none. Every ID is `POI-...`, made up by this doc. One ID per test, so it will always look 100% covered.
+1. **It points at tests it doesn't have.** The doc names 11 data sets (navigation, workflow, clinical notes, billing, compliance, communications, executive, governance, UX, cross-platform, packaging) and defines top priority as "clinical safety, financial controls". Zero of its 40 cases use them. Those tests live in the sibling file "Pilotspan AI Platform Test Documentation", which this doc never names. Read alone, it looks like a huge hole.
+2. **The approved-action path is not tested here.** The doc lists "approval binding" and "replay" in its variants and its release checklist. Case 030 only tests the unapproved actions. Approval replay is tested in the sibling doc (AI-X007), not here.
+3. **The requirements matrix is circular.** It says "AI PRD requirement IDs are preserved exactly." There are none. Every ID is `POI-...`, made up by this doc. The sentence was pasted from the sibling doc, where it is true. One ID per test, so it will always look 100% covered.
 4. **Copy-paste errors.** All 40 cases say "Functional / security / negative variants", even the load test (039), the UAT (040) and the dashboards (033). 38 of 40 are top priority, so priority means nothing.
 5. **Numbering broke.** The doc goes from section 2 to 3.1. There is no section 3.
 6. **7.4 table is wrong.** The column "Owner" holds test IDs, not owners. Case 036 is in two stages. Case 013 tests FL, CA, NY, NC inside the "Texas pilot" stage, though those states are a later stage.
@@ -180,4 +180,4 @@ Drop these two from "before launch". They can only be measured after launch: nav
 
 ## Bottom line
 
-One page of rules, one page of pass marks, and one table of 40 one-line checks. The rest is paper. Then fix flaws 1, 2, 8, and 9 before you trust it. They are real gaps, not style.
+One page of rules, one page of pass marks, and one table of 40 one-line checks. The rest is paper. Then fix flaws 3, 8, and 9 before you trust it. They are real gaps, not style. For notes, billing, messages, and boss reports, see "Platform Test Doc - The Real Parts".
