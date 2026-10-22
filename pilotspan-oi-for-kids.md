@@ -115,17 +115,17 @@ Nobody has to dig through messy manuals, websites, spreadsheets, emails, or old 
 
 ### 3.2 Report Card (the scores POI must hit before release)
 
-| What we measure | What it means | Goal |
-|---|---|---|
-| Showing the source | Rule answers that show where they came from | 100% |
-| Source is correct | Experts agree the source and section are right | 95% or more |
-| Right state | Correct state, payer, and service in the test set for the main states | 90% or more |
-| Keeping agencies apart | One agency seeing another agency's policy or private patient info | Zero. Not even once. |
-| Sources are fresh | Approved sources that have a valid check date | 100% |
-| Old-answer accidents | An answer uses a rule that was replaced | Zero serious ones |
-| Users like the help | Rating for answers with sources | 4.3 out of 5 or more |
-| Finding the way | Users reach the Pilotspan screen we suggested | 85% or more |
-| Asking a human at the right time | Sends it to a person when proof is missing or fights itself | 95% or more |
+| What we measure                  | What it means                                                         | Goal                 |
+| -------------------------------- | --------------------------------------------------------------------- | -------------------- |
+| Showing the source               | Rule answers that show where they came from                           | 100%                 |
+| Source is correct                | Experts agree the source and section are right                        | 95% or more          |
+| Right state                      | Correct state, payer, and service in the test set for the main states | 90% or more          |
+| Keeping agencies apart           | One agency seeing another agency's policy or private patient info     | Zero. Not even once. |
+| Sources are fresh                | Approved sources that have a valid check date                         | 100%                 |
+| Old-answer accidents             | An answer uses a rule that was replaced                               | Zero serious ones    |
+| Users like the help              | Rating for answers with sources                                       | 4.3 out of 5 or more |
+| Finding the way                  | Users reach the Pilotspan screen we suggested                         | 85% or more          |
+| Asking a human at the right time | Sends it to a person when proof is missing or fights itself           | 95% or more          |
 
 ---
 
