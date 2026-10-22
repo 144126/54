@@ -40,8 +40,23 @@
               "icon": "lucide-file",
               "title": "POI Spec - The Real Parts"
             }
+          },
+          {
+            "id": "58a52e330803fda2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ps"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed45e26dcb90dc93",
+  "active": "58a52e330803fda2",
   "lastOpenFiles": [
-    "POI Test Doc - The Real Parts.md",
+    "Untitled 4.md",
     "POI Spec - The Real Parts.md",
+    "POI Test Doc - The Real Parts.md",
     "ps.md",
     "Platform PRD - The Real Parts.md",
     "Platform PRD - The Real Parts.md.tmp.42298.751c50518ef2",
