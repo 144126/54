@@ -16,5 +16,8 @@ So agencies have their individual policies. Do we have something that do we alre
 
 todo
 thumbs up/down button on responses
+allow agencies add their own policies easily
+	would agencies policies follow the same data structures defined in the docs. if yes, how would we make it easy for agencies
+		they use a voice AI
 dashboard to track
 
