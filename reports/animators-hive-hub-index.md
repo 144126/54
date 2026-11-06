@@ -1,10 +1,9 @@
 # animators hive hub — where everything is
 
-NCC level 5 computing project: "Giving Traditional Animators a Productive Edge over A.I Animating" (Edem Angel Edem Hogan, P0013366). Gathered 2026-11-06; nothing else with "animator"/"hive hub" exists on this machine.
+NCC level 5 computing project: "Giving Traditional Animators a Productive Edge over A.I Animating" (Edem Angel Edem Hogan, P0013366). Gathered 2026-11-06; the flaws review was deleted on request.
 
 ## here, on disk
 
-- `animators-hive-hub-flaws.md` — full review of the sveltekit conversion, 59 flaws, reviewed 2026-10-06 (repo commit 86c79d8).
 - `animators-project-work.docx` — the original report (was `~/Project Work.docx`, 2026-09-18). Its own flaws are items 49–59 of the review: it describes react+node+firebase, claims features that don't exist, ~4,400 words vs 6,000, no images.
 - `animators-hive-hub-proposal.md` — the 30-line proposal (AfriHUB, sveltekit + D1 + R2), recovered from `54@17937f2^`. It was dropped on purpose in 17937f2 ("superseded by the working report draft now live on dump.apexlinks.org"), but no such draft exists in `~/i/dump` any more.
 
